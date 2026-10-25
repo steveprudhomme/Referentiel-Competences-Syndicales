@@ -1,4 +1,8 @@
 # Journal des changements
+## 2026-10-25 — Lien direct de la thèse S03
+- Ajout du lien Corpus fourni par l'utilisateur.
+- Accès retesté : page de rejet à la place du PDF. Le statut reste « non récupérée »; aucun effectif ni niveau de lecture modifié.
+
 ## 2026-10-25 — Phase 1 documentaire
 - Critères de sélection et journal de recherches détaillés.
 - 24 fiches, dont 18 documents consultés au moins en partie et 6 réserves.

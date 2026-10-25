@@ -87,6 +87,10 @@ Cadre : [critères de sélection](criteres-selection.md). Recherche ciblée expl
 
 ## Décisions de sélection et contrôle des doublons
 
+### Complément fourni par l'utilisateur — S03
+
+Le 25 octobre 2026, l'utilisateur a fourni le [lien direct du fichier Corpus](https://corpus.ulaval.ca/server/api/core/bitstreams/d73b51a3-4dd2-4b78-bce9-6a7cbf08a657/content). Tentatives par lecteur web, téléchargement et navigateur : pas de PDF lisible. Le téléchargement renvoie HTTP 200, mais le contenu est une page HTML de rejet. Le statut de lecture et les effectifs du bilan restent inchangés. Aucun contournement de restriction effectué.
+
 Les décisions source par source sont dans les 24 [fiches](inventaire-sources.md). Les copies Scribd du mémoire, notices d'agrégateurs et profils commerciaux ne sont pas retenus comme preuves scientifiques quand l'original est disponible. Les références bibliographiques servent à découvrir, puis les originaux à vérifier.
 
 Nombre de documents du registre : 24; retenus : 18; réserves : 6. Ces nombres ne sont pas un diagramme de revue systématique : aucun total de tous les résultats examinés ou exclus n'est prétendu. Les recherches ne donnent pas une garantie de couverture exhaustive. La sélection a été faite par une seule personne assistée d'outils; aucune double sélection indépendante n'a eu lieu.
