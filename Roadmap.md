@@ -1,5 +1,5 @@
 # Les étapes du projet
-**État au 25 octobre 2026 : préparation du dépôt.** Les phases de recherche ci-dessous ne sont pas terminées.
+**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 18 documents consultés pour préparer la suite et 6 pistes séparées. La phase 1B n'a pas commencé.
 Les durées sont des estimations de travail, pas des dates promises. Chaque étape se ferme avec une courte note : résultat, limites, responsable et prochaine décision.
 
 | Phase | But simple | Durée indicative | Dépend de |
@@ -14,10 +14,11 @@ Les durées sont des estimations de travail, pas des dates promises. Chaque éta
 | 7 | Faire relire et diffuser | 1 à 2 semaines | 6 |
 
 ## Phase 1 — Constitution du corpus
-- [ ] Lire les quatre études prioritaires : Fortin-Bergeron, Lonergan, Bernard Pelletier et Coderre-LaPalme.
-- [ ] Rechercher les autres études, rapports et précédents français.
-- [ ] Noter la population, le secteur, l'année, la méthode, les accès et les limites.
+- [ ] Lire les quatre études prioritaires : Fortin-Bergeron, Lonergan, Bernard Pelletier et Coderre-LaPalme. Trois textes récupérés et lus en partie; thèse Bernard Pelletier non récupérée.
+- [x] Rechercher les autres études, rapports et précédents français. Recherche exploratoire et limites consignées.
+- [x] Noter la population, le secteur, l'année, la méthode, les accès et les limites. Informations manquantes signalées dans les fiches.
 - [ ] Repérer les statuts applicables et leurs amendements, sans les utiliser pour diriger la première lecture des tâches.
+  Versions publiques repérées : SSPHQ 2022, SCFP national 2025, élections 2019 et procédure d'amendement 2016. Historique des amendements locaux et règlement des dépenses encore non confirmés.
 Livrables : bibliographie commentée, inventaire et journal de sélection.
 Passage à 1B : les textes retenus sont identifiés, accessibles et leur sélection est expliquée.
 

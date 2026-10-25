@@ -1,4 +1,13 @@
 # Journal des changements
+## 2026-10-25 — Phase 1 documentaire
+- Critères de sélection et journal de recherches détaillés.
+- 24 fiches, dont 18 documents consultés au moins en partie et 6 réserves.
+- Vérification de trois des quatre textes prioritaires; thèse Bernard Pelletier encore inaccessible.
+- Ajout de sources sur le genre, la négociation et les compétences du dialogue social.
+- Corrections bibliographiques, accès Scholaris retrouvé et discordance d'effectifs S10 signalée.
+- Versions normatives inventoriées séparément; actualité locale non entièrement confirmée.
+- Bilan et feuille de route actualisés sans annoncer une phase 1 terminée ni commencer 1B.
+
 ## 2026-10-25 — Mise en place
 - Conservation du README initial.
 - Ajout du guide de départ et des fichiers de collaboration.
