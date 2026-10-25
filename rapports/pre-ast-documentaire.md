@@ -1,6 +1,6 @@
 # Pré-analyse documentaire de la situation de travail des élus syndicaux québécois
 
-**Rapport de travail, lots 1 à 3 — 25 octobre 2026. Phase 1B commencée et non terminée.** Il présente 41 extractions de cinq textes : 38 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
+**Rapport de travail, lots 1 à 4 — 25 octobre 2026. Phase 1B commencée et non terminée.** Il présente 45 extractions de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
 
 ## 1. Contexte et objectifs
 
@@ -33,7 +33,7 @@ La lecture et le dépouillement restent partiels dans chacun de ces textes. Les 
 
 ## 4. Tâches et opérations
 
-La [matrice](../pre-ast/matrice-taches.md) relie chaque activité à une fiche E001–E041. Les premiers passages montrent des activités administratives, la préparation des réunions, la défense des droits, le soutien des délégués, la circulation de l’information, l’accompagnement et la participation collective. Ce sont des descriptions partielles de mandats, sans classement d’importance.
+La [matrice](../pre-ast/matrice-taches.md) relie chaque activité à une fiche E001–E045. Les premiers passages montrent des activités administratives, la préparation des réunions, la défense des droits, le soutien des délégués, la circulation de l’information, l’accompagnement et la participation collective. Ce sont des descriptions partielles de mandats, sans classement d’importance.
 
 Deux différences doivent rester visibles. Organiser la réunion locale et participer à une instance supérieure ne sont pas la même opération. Informer les membres et recueillir leurs préoccupations correspondent à deux directions de communication. La [comparaison des lots](../pre-ast/comparaison-lots-1-2.md) précise les premiers rapprochements, sans fusion définitive. S02 ajoute l’accueil, la tournée et les mandats; S04 la gestion collective de projets de sous-traitance. S11 apporte notamment des limites d’accès au mentorat et des conditions d’exercice. E034 reste une condition, sans tâche inventée.
 
@@ -43,7 +43,7 @@ Les [14 familles provisoires](../pre-ast/consolidation-provisoire.md) regroupent
 
 ## 5. Limites et lacunes
 
-Les trois lots couvrent cinq textes, plusieurs secteurs et des données de périodes différentes, dont plusieurs anciennes. Ils ne décrivent pas tout le travail contemporain du SSPHQ. Les activités reposent sur des entretiens publiés et leur analyse, avec des documents de contexte selon les études; aucune observation directe n’a été menée par notre équipe. Les nombres de répondants associés à certains rôles divergent entre tableau et récit dans S01; la matrice conserve ces écarts sans choisir un nombre.
+Les quatre lots couvrent cinq textes, plusieurs secteurs et des données de périodes différentes, dont plusieurs anciennes. Ils ne décrivent pas tout le travail contemporain du SSPHQ. Les activités reposent sur des entretiens publiés et leur analyse, avec des documents de contexte selon les études; aucune observation directe n’a été menée par notre équipe. Les nombres de répondants associés à certains rôles divergent entre tableau et récit dans S01; la matrice conserve ces écarts sans choisir un nombre.
 
 Les avis sur les conflits entre membres et l’aide personnelle divergent dans S01. Ils ne sont pas réduits à une règle unique. La [carte des questions ouvertes](../pre-ast/lacunes-documentaires.md) précise ce qui manque dans les passages lus. Elle ne prétend pas que les réponses sont absentes des textes restant à lire.
 
@@ -55,3 +55,6 @@ Les avis sur les conflits entre membres et l’aide personnelle divergent dans S
 4. Préparer plus tard les cas à discuter avec les élus : autonomie, transmission, urgences, limites de rôle et réussite des tâches.
 
 Aucun chercheur n’a été contacté. La phase 1B reste ouverte; les compétences et la formation ne sont pas encore construites à partir de ces lignes.
+
+## Contrôle du lot 4
+Quatre nouvelles fiches précisent les familles A03/A04/A12, sans famille supplémentaire. Le [contrôle documentaire](../pre-ast/controle-qualite.md) consigne les conclusions relues, les guides terminés et les compléments. Les relais et remplacements ont des exemples publiés; les questions portent désormais sur leurs modalités et leurs limites. Le bilan de fin de 1B reste à établir après les blocs ouverts.

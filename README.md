@@ -18,7 +18,7 @@ Ce projet de recherche vise à réaliser une **analyse de situation de travail (
 |---|---|
 | **19 documents retenus** | Consultés au moins en partie, parmi 24 entrées; 5 pistes restent séparées |
 | **5 textes principaux dans la matrice** | Fortin-Bergeron et coll., Lonergan, Bernard Pelletier, Coderre-LaPalme et Bernard Pelletier–Le Capitaine |
-| **41 constats documentaires** | 38 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
+| **45 constats documentaires** | 42 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
 | **14 familles provisoires** | Des regroupements pour comparer les activités; plusieurs constats peuvent concerner une même tâche |
 
 Les lectures restent partielles. Les tâches ne sont pas encore validées avec les élus ni attribuées au poste de vice-présidence du SSPHQ. Les versions et amendements locaux restent à confirmer avant la comparaison détaillée avec les statuts.

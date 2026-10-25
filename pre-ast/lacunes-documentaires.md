@@ -1,4 +1,4 @@
-# Questions ouvertes après trois lots
+# Questions ouvertes après quatre lots
 
 **Lecture partielle de cinq textes : S01, S02, S03, S04 et S11.** Une question sans réponse dans ce lot n’est pas une absence démontrée dans le corpus entier. Aucun accès aux données primaires n’est demandé avant le bilan complet de 1B.
 
@@ -35,3 +35,15 @@ Les lignes du tableau initial gardent la trace des questions issues du lot 1; ce
 - LAC07 : demande, soutien informel et programme de mentorat doivent rester distincts; la thèse cite aussi un homme utilisant cette ressource.
 
 Voir le [registre de lecture](suivi-depouillement.md) et les [familles provisoires](consolidation-provisoire.md). Les données non publiées pour confidentialité ne deviennent pas une cible de demande individuelle. Une synthèse non identifiante ou la consultation de nouveaux élus pourra répondre à une question sans reconstituer les personnes de l’étude.
+
+## Révision après le lot 4
+
+| Question | Réponse partielle maintenant documentée | Ce qui reste ouvert |
+|---|---|---|
+| LAC03, relais | S03 p. 229–232 : dossiers prioritaires discutés et appui quand une difficulté dépasse le délégué, E042 | Délais, critères, accès, responsabilité finale et diversité des circuits |
+| LAC04, remplacement | S03 p. 231 : présence d’adjoints aux rencontres pour préparer un relais, E044 | Transmission des dossiers et remplacement d’une présidence ou vice-présidence |
+| LAC02, temps | S03 p. 234–235 : ajustements demandés et rôle des instances locales, E045 | Besoins réels et modalités propres au SSPHQ |
+| LAC05, réussite | S01 p. 315 et S11 p. 15 rappellent l’écart possible entre perceptions et réalité | Points de vue des personnes représentées, résultats observables et critères discutés |
+| LAC06, participation | S05 p. 19 décrit un exemple d’assemblée accessible | Besoins et dispositifs adaptés aux personnes et au terrain pilote |
+
+Les réponses partielles réduisent les questions à poser : ne plus demander si un relais ou un adjoint existe « en général », mais comment il fonctionne dans le contexte étudié. Voir le [contrôle documentaire](controle-qualite.md).

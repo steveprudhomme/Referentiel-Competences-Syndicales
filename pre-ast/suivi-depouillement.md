@@ -23,3 +23,15 @@
 ## Passage à la prochaine étape
 
 Le registre n’est pas une promesse de saturation. Compléter les blocs restants, revoir les questions ouvertes et faire une relecture de contrôle avant de déclarer la phase 1B terminée. Les compléments S05/S07/S10/S12 sont à examiner selon les lacunes. Aucune demande primaire n’est envoyée pendant ce travail.
+
+## Mise à jour — lot 4
+
+- [x] S01 : conclusion et limites p. 314–316 contrôlées; début de discussion p. 312–313 encore à approfondir.
+- [x] S11 : fin p. 15 contrôlée; limites intégrées au contrôle documentaire.
+- [x] S02 : fin du guide p. 138–140, PDF 159–161, contrôlée. La discussion reste ouverte.
+- [x] S04 : fin du guide québécois xxv–xxvii, PDF 252–254, contrôlée. Contexte et analyse comparative restent ouverts.
+- [x] S03 : extension p. 226–236, PDF 227–237, avec E042–E045. Relations suivantes et annexes encore ouvertes selon le tableau historique.
+- [x] Compléments ciblés : S05 p. 19; outil associé à S07 p. 14–15; S12 p. 64–68. Lectures partielles, sans nouvelles enquêtes comptées.
+- [ ] S10 : reprendre p. 63–68; échec du nouveau lien PDF dans le lecteur web consigné.
+
+Les lignes du tableau initial décrivent l’état avant le lot 4; cette mise à jour précise les blocs fermés et les restes. Voir le [contrôle qualité](controle-qualite.md).

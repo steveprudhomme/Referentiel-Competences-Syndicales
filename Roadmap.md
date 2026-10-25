@@ -1,5 +1,5 @@
 # Les étapes du projet
-**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B est en cours : trois lots totalisant 41 extractions issues de S01, S02, S03, S04 et S11, sans validation terrain.
+**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B est en cours : quatre lots totalisant 45 extractions issues de S01, S02, S03, S04 et S11, sans validation terrain.
 Les durées sont des estimations de travail, pas des dates promises. Chaque étape se ferme avec une courte note : résultat, limites, responsable et prochaine décision.
 
 | Phase | But simple | Durée indicative | Dépend de |
@@ -24,17 +24,20 @@ Passage à 1B : les textes retenus sont identifiés, accessibles et leur sélect
 La reprise des vérifications publiques confirme que ce passage documentaire est possible avec les réserves du bilan. La confirmation des amendements locaux reste ouverte et devra être obtenue avant leur utilisation en phase 4. S08 est un projet annoncé pour 2026–2031 : son rapport final n’est pas une condition de passage à 1B.
 
 ## Phase 1B — Pré-AST documentaire
-État : trois lots réalisés; 38 lignes d’activités regroupées en 14 familles provisoires et trois conditions gardées à part. Les éléments partiels restent ouverts ci-dessous. Voir le [rapport de travail](rapports/pre-ast-documentaire.md).
+État : quatre lots réalisés; 42 lignes d’activités regroupées en 14 familles provisoires et trois conditions gardées à part. Les éléments partiels restent ouverts ci-dessous. Voir le [rapport de travail](rapports/pre-ast-documentaire.md).
 - [ ] Terminer la lecture des résultats, tableaux et annexes utiles du corpus retenu.
   - [x] Produire les lots 1 et 2 : 34 fiches sur cinq textes.
   - [x] Compléter le lot 3 : 7 fiches et contrôle des annexes ciblées.
+  - [x] Produire le lot 4 : 4 fiches, revue des limites et questions révisées.
   - [x] Tenir un registre des passages lus et des blocs restant à lire.
   - [ ] Compléter les blocs restants et les sources complémentaires utiles.
-- [x] Créer et renseigner la grille des cinq dimensions dans les 41 fiches actuelles.
+- [x] Créer et renseigner la grille des cinq dimensions dans les 45 fiches actuelles.
 - [ ] Achever les extractions nécessaires au bilan de 1B.
-- [x] Relier les 41 constats actuels à une source et aux pages imprimées et PDF.
+- [x] Relier les 45 constats actuels à une source et aux pages imprimées et PDF.
 - [x] Indiquer l’origine des passages et distinguer nos paraphrases et regroupements.
-- [ ] Approfondir les passages restants et contrôler les interprétations avant le bilan.
+- [x] Contrôler les conclusions et limites de S01/S11 et terminer les guides québécois de S02/S04.
+- [x] Examiner des compléments ciblés sur l’accessibilité, l’écoute et la négociation.
+- [ ] Approfondir les blocs encore ouverts et contrôler les interprétations avant le bilan.
 - [x] Produire une matrice provisoire, une carte des questions ouvertes et un rapport de travail en six chapitres.
 - [x] Proposer 14 familles avec renvoi aux fiches, en séparant trois conditions d’exercice.
 - [ ] Relire et consolider ces livrables pour le bilan final de 1B.

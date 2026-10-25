@@ -1,4 +1,12 @@
 # Journal des changements
+## 2026-10-25 — Lot 4 et contrôle documentaire
+- [x] Ajouter E042–E045 : 45 constats, 42 activités et trois conditions.
+- [x] Actualiser les 14 familles et les questions sur les relais, remplacements et libérations.
+- [x] Contrôler les conclusions S01/S11 et finir les guides québécois S02/S04.
+- [x] Consigner les lectures complémentaires ciblées et la tentative PDF S10.
+- [x] Harmoniser README, Roadmap, rapport et fiches de sources.
+- [ ] Achever les blocs ouverts et le bilan final de 1B.
+
 ## 2026-10-25 — Présentation du projet dans le README
 - [x] Enrichir le README à la demande de l’utilisateur : objectif, pilote, état réel et résultats accessibles.
 - [x] Ajouter un parcours visuel des phases 1, 1B et 2–7 et des liens vers les livrables.

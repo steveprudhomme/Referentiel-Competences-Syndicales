@@ -1,6 +1,6 @@
-# Matrice provisoire — trois lots documentaires
+# Matrice provisoire — quatre lots documentaires
 
-**Phase 1B en cours.** 41 extractions issues de cinq textes : 38 lignes d’activités et trois conditions d’exercice. Ce ne sont pas 41 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
+**Phase 1B en cours.** 45 extractions issues de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce ne sont pas 45 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
 
 | Extraction | Source et page imprimée | Activité reformulée | Catégorie provisoire | État |
 |---|---|---|---|---|
@@ -47,6 +47,13 @@
 | [E039](extractions/E039.md) | S02, p. 110 | Siéger dans des instances sectorielles ou régionales | T03 | Activité; explicite, terrain non consulté |
 | [E040](extractions/E040.md) | S03, p. 412–413 | Disposer de libérations variables selon le local | Transversal | Condition d’exercice; explicite, terrain non consulté |
 | [E041](extractions/E041.md) | S03, p. 214, 221–222, 344 | Cumuler plusieurs mandats syndicaux | Transversal | Condition d’exercice; explicite, terrain non consulté |
+
+| [E042](extractions/E042.md) | S03, p. 229–232 | Prendre le relais d’un délégué quand une difficulté dépasse son intervention | A03 | Activité explicite; terrain non consulté |
+| [E043](extractions/E043.md) | S03, p. 230, 235 | Clarifier les rôles dans l’équipe | A03 | Activité explicite; terrain non consulté |
+| [E044](extractions/E044.md) | S03, p. 231 | Préparer un adjoint à assurer un remplacement | A04 | Activité explicite; terrain non consulté |
+| [E045](extractions/E045.md) | S03, p. 234–235 | Adapter les libérations à la charge du mandat | A12 | Activité explicite; terrain non consulté |
+
+Le lot 4 précise les relais, la clarification des rôles, un remplacement préparé et l’ajustement des libérations.
 
 Le lot 3 complète les réseaux, l’action publique et deux conditions. Voir le [regroupement provisoire](consolidation-provisoire.md) et le [suivi de lecture](suivi-depouillement.md).
 
