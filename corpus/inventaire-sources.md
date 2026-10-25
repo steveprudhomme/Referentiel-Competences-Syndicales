@@ -12,7 +12,7 @@ Les 19 documents retenus comprennent 15 PDF et 4 pages HTML. Tous ont été cons
 | [S04](fiches-sources/S04.md) | principal | Texte intégral | Lue en partie | Préparation |
 | [S05](fiches-sources/S05.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
 | [S06](fiches-sources/S06.md) | piste | Notice de projet complète | Fiche lue intégralement | Réserve |
-| [S07](fiches-sources/S07.md) | complémentaire | Page institutionnelle complète | Page lue intégralement; guides liés non lus | Préparation |
+| [S07](fiches-sources/S07.md) | complémentaire | Page institutionnelle et premier guide lié accessibles | Page lue intégralement; guide écoute lu en partie en 1B, autres outils non lus | Préparation |
 | [S08](fiches-sources/S08.md) | piste | Notice de projet complète | Fiche lue intégralement | Réserve |
 | [S09](fiches-sources/S09.md) | piste | Résumé et notice; intégral non consulté | Résumé et référence vérifiés | Réserve |
 | [S10](fiches-sources/S10.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
