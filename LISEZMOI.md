@@ -20,7 +20,7 @@ Le projet commence par la vice-présidence au SSPHQ, section locale SCFP 4250. I
 
 ## Où en sommes-nous?
 La phase 1 a avancé : [bibliographie et fiches vérifiées](corpus/inventaire-sources.md), [bilan et limites](rapports/bilan-phase-1.md). Les quatre textes prioritaires sont disponibles et lus en partie; les amendements locaux restent à confirmer. La pré-AST documentaire a commencé avec trois lots. La validation avec les élus n’a pas commencé. Les catégories de départ restent des pistes, distinctes des constats sourcés.
-Le README d'origine est conservé sans changement. La conversation a été relue dans le navigateur le 25 octobre 2026. Voir [son bilan](docs/historique-conversation.md).
+Le README présente le projet et les résultats actuels; il a été enrichi à la demande de l’utilisateur le 25 octobre 2026. Son texte initial reste accessible dans l’historique Git. La conversation a été relue dans le navigateur le 25 octobre 2026. Voir [son bilan](docs/historique-conversation.md).
 
 
 ## Pré-AST commencée

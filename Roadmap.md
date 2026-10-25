@@ -85,5 +85,10 @@ Livrables : référentiel et plan de formation. Aucun nouveau critère d'éligib
 - [ ] Publier une version générale et une adaptation locale autorisée.
 Livrables : rapport documentaire, rapport d'AST, référentiel, plan de formation et bilan méthodologique.
 
+## Présentation et suivi du dépôt
+
+- [x] Enrichir le README avec l’objectif, l’état réel, les phases et les liens vers les résultats (25 octobre 2026).
+- [x] Consigner cette mise à jour dans CHANGELOG et harmoniser LISEZMOI.
+
 ## Calendrier à revoir
 L'ancienne estimation de 14 à 18 semaines précédait l'ajout formel de 1B. Elle n'est pas reprise comme engagement. Les autorisations et disponibilités peuvent rallonger le projet.

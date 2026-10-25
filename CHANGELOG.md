@@ -1,4 +1,10 @@
 # Journal des changements
+## 2026-10-25 — Présentation du projet dans le README
+- [x] Enrichir le README à la demande de l’utilisateur : objectif, pilote, état réel et résultats accessibles.
+- [x] Ajouter un parcours visuel des phases 1, 1B et 2–7 et des liens vers les livrables.
+- [x] Expliquer les limites, la méthode et les résultats attendus en français simple.
+- [x] Actualiser LISEZMOI : le README initial reste dans l’historique Git.
+
 ## 2026-10-25 — Troisième lot et suivi des étapes
 - [x] Ajouter E035–E041 : 41 extractions, dont 38 activités et trois conditions.
 - [x] Proposer 14 familles reliées aux fiches.
