@@ -19,5 +19,9 @@ Le projet commence par la vice-présidence au SSPHQ, section locale SCFP 4250. I
 - rapports : modèles des rapports à produire.
 
 ## Où en sommes-nous?
-La phase 1 a avancé : [bibliographie et fiches vérifiées](corpus/inventaire-sources.md), [bilan et limites](rapports/bilan-phase-1.md). Les quatre textes prioritaires sont disponibles et lus en partie; les amendements locaux restent à confirmer. La pré-AST et les validations n'ont pas commencé. Les exemples ne sont pas des résultats.
+La phase 1 a avancé : [bibliographie et fiches vérifiées](corpus/inventaire-sources.md), [bilan et limites](rapports/bilan-phase-1.md). Les quatre textes prioritaires sont disponibles et lus en partie; les amendements locaux restent à confirmer. La pré-AST documentaire a commencé avec un premier lot. La validation avec les élus n’a pas commencé. Les catégories de départ restent des pistes, distinctes des constats sourcés.
 Le README d'origine est conservé sans changement. La conversation a été relue dans le navigateur le 25 octobre 2026. Voir [son bilan](docs/historique-conversation.md).
+
+
+## Pré-AST commencée
+Le [rapport de travail](rapports/pre-ast-documentaire.md) présente 17 extractions de S01 et S03. La phase 1B reste en cours : chaque ligne indique sa source, ses pages et ses limites. Aucun résultat n’est encore validé pour le SSPHQ.

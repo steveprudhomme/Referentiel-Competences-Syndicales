@@ -1,4 +1,10 @@
 # Journal des changements
+## 2026-10-25 — Premier lot de pré-AST documentaire
+- 17 fiches d’extraction de S01 et S03, avec pages imprimées et PDF.
+- Matrice provisoire et questions ouvertes renseignées; modèles initiaux conservés quand utiles.
+- Rapport de travail en six chapitres; phase 1B en cours, sans validation terrain.
+- Désaccords de rôle et écarts de nombres S01 conservés.
+
 ## 2026-10-25 — Reprise des vérifications de phase 1
 - Liens normatifs recontrôlés et preuve du vote de 2022 ajoutée; actualité des amendements toujours à confirmer.
 - Résumé Acfas rattaché à la piste S06 et calendrier 2026–2031 précisé pour S08.
