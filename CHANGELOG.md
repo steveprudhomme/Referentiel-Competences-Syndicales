@@ -1,4 +1,10 @@
 # Journal des changements
+## 2026-10-25 — Deuxième lot de pré-AST
+- 17 nouvelles fiches de S02, S04 et S11; 34 extractions au total.
+- Activités individuelles, activités collectives et condition d’exercice distinguées.
+- Comparaison des deux lots, questions ouvertes et rapport actualisés.
+- Dépouillement toujours partiel; aucune addition d’échantillons ni validation terrain.
+
 ## 2026-10-25 — Premier lot de pré-AST documentaire
 - 17 fiches d’extraction de S01 et S03, avec pages imprimées et PDF.
 - Matrice provisoire et questions ouvertes renseignées; modèles initiaux conservés quand utiles.

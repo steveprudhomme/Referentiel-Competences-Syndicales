@@ -1,5 +1,5 @@
 # Les étapes du projet
-**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B est en cours : premier lot de 17 extractions issues de S01 et S03, sans validation terrain.
+**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B est en cours : deux lots totalisant 34 extractions issues de S01, S02, S03, S04 et S11, sans validation terrain.
 Les durées sont des estimations de travail, pas des dates promises. Chaque étape se ferme avec une courte note : résultat, limites, responsable et prochaine décision.
 
 | Phase | But simple | Durée indicative | Dépend de |
@@ -24,7 +24,7 @@ Passage à 1B : les textes retenus sont identifiés, accessibles et leur sélect
 La reprise des vérifications publiques confirme que ce passage documentaire est possible avec les réserves du bilan. La confirmation des amendements locaux reste ouverte et devra être obtenue avant leur utilisation en phase 4. S08 est un projet annoncé pour 2026–2031 : son rapport final n’est pas une condition de passage à 1B.
 
 ## Phase 1B — Pré-AST documentaire
-État : premier lot réalisé; les cases restent ouvertes jusqu’au bilan du corpus prévu. Voir le [rapport de travail](rapports/pre-ast-documentaire.md).
+État : deux lots réalisés; les cases restent ouvertes jusqu’au bilan du corpus prévu. Voir le [rapport de travail](rapports/pre-ast-documentaire.md).
 - [ ] Lire les résultats, les tableaux, les extraits publiés et les annexes.
 - [ ] Relever les fonctions, tâches, opérations, conditions et difficultés.
 - [ ] Relier chaque constat à une source et une page.

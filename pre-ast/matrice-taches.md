@@ -1,6 +1,6 @@
 # Matrice provisoire — premier lot documentaire
 
-**Phase 1B en cours.** 17 extractions issues de deux textes, pas 17 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
+**Phase 1B en cours.** 34 extractions issues de cinq textes : 33 lignes d’activités et une condition d’exercice. Ce ne sont pas 34 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
 
 | Extraction | Source et page imprimée | Activité reformulée | Catégorie provisoire | État |
 |---|---|---|---|---|
@@ -21,6 +21,26 @@
 | [E015](extractions/E015.md) | S03, p. 216–217 | Conseiller et accompagner les membres | T06 | Explicite; terrain non consulté |
 | [E016](extractions/E016.md) | S03, p. 217 | Examiner les griefs avec le soutien juridique | T01 | Explicite; terrain non consulté |
 | [E017](extractions/E017.md) | S03, p. 217–218 | Échanger avec les autres niveaux syndicaux | T04 | Explicite; terrain non consulté |
+
+| [E018](extractions/E018.md) | S02, p. 80 | Accueillir les nouveaux membres | T05 | Activité; explicite, terrain non consulté |
+| [E019](extractions/E019.md) | S02, p. 81 | Maintenir un lien par le journal syndical | T05 | Activité; explicite, terrain non consulté |
+| [E020](extractions/E020.md) | S02, p. 87–88 | Partager les acquis de formation et les informations utiles | T05 | Activité; explicite, terrain non consulté |
+| [E021](extractions/E021.md) | S02, p. 97–98 | Rencontrer les membres sur les lieux de travail | T06 | Activité; explicite, terrain non consulté |
+| [E022](extractions/E022.md) | S02, p. 89 | Préparer les moyens matériels du piquetage | T07 | Activité; explicite, terrain non consulté |
+| [E023](extractions/E023.md) | S02, p. 90 | Faire appel aux ressources du syndicat affilié | T02 | Activité; explicite, terrain non consulté |
+| [E024](extractions/E024.md) | S02, p. 91 | Négocier les moyens de libération syndicale | T02 | Activité; explicite, terrain non consulté |
+| [E025](extractions/E025.md) | S02, p. 102–103 | Soumettre les choix de négociation aux membres | T03 | Activité; explicite, terrain non consulté |
+| [E026](extractions/E026.md) | S04, p. 159–161 | Négocier des protections dans un projet de sous-traitance | T02 | Activité collective; explicite, terrain non consulté |
+| [E027](extractions/E027.md) | S04, p. 161–162 | Consulter et informer la structure pendant la négociation | T05 | Activité collective; explicite, terrain non consulté |
+| [E028](extractions/E028.md) | S04, p. 162 | Préparer les communications publiques avec les ressources syndicales | T05 | Activité collective; explicite, terrain non consulté |
+| [E029](extractions/E029.md) | S04, p. 167–168 | Chercher et examiner les informations sur la sous-traitance | T02 | Activité collective; explicite, terrain non consulté |
+| [E030](extractions/E030.md) | S04, p. 168 | Participer à la réaffectation des salariés | T01 | Activité collective; explicite, terrain non consulté |
+| [E031](extractions/E031.md) | S11, p. 12 | Utiliser les réseaux syndicaux pour apprendre le mandat | T07 | Activité; explicite, terrain non consulté |
+| [E032](extractions/E032.md) | S11, p. 12–13 | Chercher un appui de mentorat à la prise de poste | T07 | Activité; explicite, terrain non consulté |
+| [E033](extractions/E033.md) | S11, p. 13 | Solliciter des personnes pour la relève | T07 | Activité; explicite, terrain non consulté |
+| [E034](extractions/E034.md) | S11, p. 10–11 | Composer avec le cumul des responsabilités | Transversal | Condition d’exercice; explicite, terrain non consulté |
+
+Le lot 2 ajoute S02, S04 et S11. E034 est une condition d’exercice, sans tâche nouvelle. Voir la [comparaison des deux lots](comparaison-lots-1-2.md).
 
 ## Comparaisons à poursuivre
 
