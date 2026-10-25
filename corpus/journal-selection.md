@@ -93,4 +93,8 @@ Le 25 octobre 2026, l'utilisateur a fourni le [lien direct du fichier Corpus](ht
 
 Les décisions source par source sont dans les 24 [fiches](inventaire-sources.md). Les copies Scribd du mémoire, notices d'agrégateurs et profils commerciaux ne sont pas retenus comme preuves scientifiques quand l'original est disponible. Les références bibliographiques servent à découvrir, puis les originaux à vérifier.
 
-Nombre de documents du registre : 24; retenus : 18; réserves : 6. Ces nombres ne sont pas un diagramme de revue systématique : aucun total de tous les résultats examinés ou exclus n'est prétendu. Les recherches ne donnent pas une garantie de couverture exhaustive. La sélection a été faite par une seule personne assistée d'outils; aucune double sélection indépendante n'a eu lieu.
+Nombre de documents du registre : 24; retenus : 19; réserves : 5. Ces nombres ne sont pas un diagramme de revue systématique : aucun total de tous les résultats examinés ou exclus n'est prétendu. Les recherches ne donnent pas une garantie de couverture exhaustive. La sélection a été faite par une seule personne assistée d'outils; aucune double sélection indépendante n'a eu lieu.
+
+## Résolution de l'accès S03 par fichier fourni
+
+Le 25 octobre 2026, l'utilisateur a transmis un PDF de 434 pages. Couverture et sommaire concordent avec la thèse de Bernard Pelletier 2022. La méthode, le tableau des tâches et les débuts des annexes utiles ont été lus. S03 passe de piste à corpus principal; le total devient 19 documents retenus et 5 réserves. L'accès web défaillant demeure un fait historique, mais n'empêche plus la lecture locale. Le PDF n'est pas ajouté au dépôt public.

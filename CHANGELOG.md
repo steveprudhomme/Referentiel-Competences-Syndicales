@@ -1,4 +1,10 @@
 # Journal des changements
+## 2026-10-25 — Thèse S03 disponible et consultée
+- PDF fourni par l’utilisateur, couverture et passages utiles vérifiés.
+- S03 intégrée au corpus principal : 19 documents retenus, 5 réserves.
+- Repères de méthode, résultats et annexes ajoutés; différence S03/S11 sur les transcriptions signalée.
+- Bilan, bibliographie et feuille de route harmonisés; aucune extraction systématique de 1B.
+
 ## 2026-10-25 — Lien direct de la thèse S03
 - Ajout du lien Corpus fourni par l'utilisateur.
 - Accès retesté : page de rejet à la place du PDF. Le statut reste « non récupérée »; aucun effectif ni niveau de lecture modifié.

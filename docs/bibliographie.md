@@ -6,6 +6,8 @@ La lecture est principalement partielle : vérifier une méthode et repérer des
 
 ## Principal
 
+- **S03** — Bernard Pelletier, Marie-Pier (2022). Rapports de genre et leadership syndical : une étude de cas multiniveau auprès d’une fédération syndicale de la Centrale des syndicats du Québec (CSQ). Thèse de doctorat, Université Laval. [Lien](https://corpus.ulaval.ca/server/api/core/bitstreams/d73b51a3-4dd2-4b78-bce9-6a7cbf08a657/content) · [Fiche](../corpus/fiches-sources/S03.md). Texte intégral transmis; lue en partie.
+
 - **S01** — Fortin-Bergeron, Chloé; Hennebert, Marc-Antonin; Doucet, Olivier (2019). Comprendre la représentation syndicale au plan local : rôles perçus et ressources mobilisées par des dirigeants de syndicats locaux dans deux secteurs d’activités au Québec. Relations industrielles / Industrial Relations, 74(2), 293–322. [Lien](https://www.erudit.org/en/journals/ri/2019-v74-n2-ri04759/1062085ar.pdf) · [Fiche](../corpus/fiches-sources/S01.md). Lue en partie.
 - **S02** — Lonergan, Sophie (2019). Les représentants syndicaux au plan local : étude auprès d’un grand syndicat du secteur manufacturier. Mémoire de maîtrise en sciences de la gestion, HEC Montréal, juin 2019. [Lien](https://biblos.hec.ca/biblio/memoires/m2019a612806.pdf) · [Fiche](../corpus/fiches-sources/S02.md). Lue en partie.
 - **S04** — Coderre-LaPalme, Geneviève (2014). L’implication du syndicat dans la gestion de la prestation des services municipaux : une comparaison Québec-Écosse. Mémoire de maîtrise en relations industrielles, Université de Montréal, avril 2014. [Lien](https://umontreal.scholaris.ca/items/38b5cb97-3e55-4745-8a5f-9ca574a60bc0) · [Fiche](../corpus/fiches-sources/S04.md). Lue en partie.
@@ -39,7 +41,6 @@ La lecture est principalement partielle : vérifier une méthode et repérer des
 
 ## Piste
 
-- **S03** — Bernard Pelletier, Marie-Pier (2022). Rapports de genre et leadership syndical : une étude de cas multiniveau auprès d’une fédération syndicale de la Centrale des syndicats du Québec (CSQ). Thèse de doctorat, Université Laval. [Lien](https://r-libre.teluq.ca/2632/) · [Fiche](../corpus/fiches-sources/S03.md). Repérée; métadonnées corroborées.
 - **S06** — Fortin Bergeron, Chloé (responsable; concours 2020–2021). Comprendre les dynamiques de partage du leadership au sein des équipes syndicales locales et leurs impacts sur l’engagement et la participation des membres. Fiche de projet FRQ, UQTR; mise à jour 12 mai 2021. [Lien](https://frq.gouv.qc.ca/projet/comprendre-les-dynamiques-de-partage-du-leadership-au-sein-des-equipes-syndicales-locales-et-leurs-impacts-sur-lengagement-et-la-participation-des-membres/) · [Fiche](../corpus/fiches-sources/S06.md). Fiche lue intégralement.
 - **S08** — Dufour-Poirier, Mélanie; Dautel, Jean-Paul; Viviers, Simon et équipe (sans date précisée). Mieux comprendre les conditions de soutenabilité des mandats de représentation des élus syndicaux : analyses critiques (Québec-Belgique-France) dans les secteurs de l’éducation et de la métallurgie. Fiche CRIEVAT. [Lien](https://crievat.fse.ulaval.ca/recherche-et-interventions/mieux-comprendre-les-conditions-de-soutenabilite-des-mandats-de-representation-des-elus-syndicaux-analyses-critiques-quebec-belgique-france-dans-les-secteurs-de-leducation-et-de-la-metallurgie/) · [Fiche](../corpus/fiches-sources/S08.md). Fiche lue intégralement.
 - **S09** — Hennebert, Marc-Antonin; Pérez-Lauzon, Sara (2019). The practice of collective bargaining in the private sector in Quebec (Canada): the changing ‘rules of the game’. Industrial Relations Journal, 50(3), 240–255. [Lien](https://onlinelibrary.wiley.com/doi/abs/10.1111/irj.12249) · [Fiche](../corpus/fiches-sources/S09.md). Résumé et référence vérifiés.
@@ -50,7 +51,7 @@ La lecture est principalement partielle : vérifier une méthode et repérer des
 
 - S01 : texte obtenu; répartition des présidences et vice-présidences vérifiée dans la méthode.
 - S02 : HEC et dates de collecte confirmés; les pages 135 et 137 de l'annexe sont vérifiées. La population est composée de présidents.
-- S03 : Université Laval et lien permanent corroborés; thèse non récupérée. Les chiffres de la conversation restent à contrôler dans ce document.
+- S03 : PDF transmis par l’utilisateur et lu en partie; méthode, effectifs, dates repères et annexes contrôlés. Les transcriptions produites ne sont pas publiées intégralement dans la thèse.
 - S04 : notice et PDF retrouvés dans Scholaris, qui remplace l'ancien accès Papyrus. Date, établissement et DOI vérifiés sur la notice et la couverture.
 - S05 : ajout des trois personnes responsables de la rédaction et des cinq partenaires. Distinguer rencontres et personnes.
 - S07 : 2023 décrit la collecte, pas une date de publication confirmée.

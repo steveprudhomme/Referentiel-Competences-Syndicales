@@ -1,5 +1,5 @@
 # Les étapes du projet
-**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 18 documents consultés pour préparer la suite et 6 pistes séparées. La phase 1B n'a pas commencé.
+**État au 25 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B n'a pas commencé.
 Les durées sont des estimations de travail, pas des dates promises. Chaque étape se ferme avec une courte note : résultat, limites, responsable et prochaine décision.
 
 | Phase | But simple | Durée indicative | Dépend de |
@@ -14,7 +14,7 @@ Les durées sont des estimations de travail, pas des dates promises. Chaque éta
 | 7 | Faire relire et diffuser | 1 à 2 semaines | 6 |
 
 ## Phase 1 — Constitution du corpus
-- [ ] Lire les quatre études prioritaires : Fortin-Bergeron, Lonergan, Bernard Pelletier et Coderre-LaPalme. Trois textes récupérés et lus en partie; thèse Bernard Pelletier non récupérée.
+- [x] Lire les quatre études prioritaires pour la sélection : Fortin-Bergeron, Lonergan, Bernard Pelletier et Coderre-LaPalme. Les quatre textes sont disponibles et lus en partie; le dépouillement détaillé relève de 1B.
 - [x] Rechercher les autres études, rapports et précédents français. Recherche exploratoire et limites consignées.
 - [x] Noter la population, le secteur, l'année, la méthode, les accès et les limites. Informations manquantes signalées dans les fiches.
 - [ ] Repérer les statuts applicables et leurs amendements, sans les utiliser pour diriger la première lecture des tâches.

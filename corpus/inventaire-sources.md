@@ -1,14 +1,14 @@
 # Inventaire des sources
 
-Consultation : 25 octobre 2026. **24 entrées uniques : 18 retenues pour la préparation et 6 pistes séparées.** Ce sont des documents, pas 24 enquêtes ni un total de participants.
+Consultation : 25 octobre 2026. **24 entrées uniques : 19 retenues pour la préparation et 5 pistes séparées.** Ce sont des documents, pas 24 enquêtes ni un total de participants.
 
-Les 18 documents retenus comprennent 14 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des quatre études scientifiques du noyau n'est déclarée lue intégralement.
+Les 19 documents retenus comprennent 15 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des cinq études scientifiques du noyau n'est déclarée lue intégralement.
 
 | Code et fiche | Catégorie | Accès | Lecture | Usage |
 |---|---|---|---|---|
 | [S01](fiches-sources/S01.md) | principal | Texte intégral | Lue en partie | Préparation |
 | [S02](fiches-sources/S02.md) | principal | Texte intégral | Lue en partie | Préparation |
-| [S03](fiches-sources/S03.md) | piste | Notice et résumé repérés; texte intégral non récupéré | Repérée; métadonnées corroborées | Réserve |
+| [S03](fiches-sources/S03.md) | principal | Texte intégral fourni en PDF | Lue en partie | Préparation |
 | [S04](fiches-sources/S04.md) | principal | Texte intégral | Lue en partie | Préparation |
 | [S05](fiches-sources/S05.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
 | [S06](fiches-sources/S06.md) | piste | Notice de projet complète | Fiche lue intégralement | Réserve |
@@ -33,11 +33,11 @@ Les 18 documents retenus comprennent 14 PDF et 4 pages HTML. Tous ont été cons
 
 ## Ordre de lecture pour préparer 1B
 
-Commencer par S01, S02, S04 et S11. Lire ensuite S05, S10 et S12 selon les besoins. S07 repère des outils spécialisés, sans fournir ici un rapport complet de résultats. M01–M03 servent de méthode; F02–F04 de comparaison. Garder les textes normatifs séparés.
+Commencer par S01, S02, S03, S04 et S11. Lire ensuite S05, S10 et S12 selon les besoins. S07 repère des outils spécialisés, sans fournir ici un rapport complet de résultats. M01–M03 servent de méthode; F02–F04 de comparaison. Garder les textes normatifs séparés.
 
 ## Enquêtes et doublons
 
-- S03 et S11 : même thème et même équipe; S11 cite S03. Chevauchement probable à contrôler dans la thèse.
+- S03 et S11 : même thème et même équipe; S11 cite S03. Chevauchement probable : effectifs locaux identiques; différence sur les 497 pages de transcriptions signalée dans les fiches.
 - S09 et S12 : 45 négociateurs ou conseillers dans les deux cas; corpus commun possible, non confirmé avec le seul résumé de S09.
 - S01, S02 et S06 : programme et équipe proches; secteurs et périodes différents dans les deux premiers. Ne pas affirmer un chevauchement ni une indépendance totale sans vérification.
 - S10 synthétise des travaux plus anciens : ses références ne sont pas ajoutées comme enquêtes nouvelles sans examen.
