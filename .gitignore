@@ -1,0 +1,16 @@
+# Documents privés : garder ces éléments hors du dépôt
+prive/
+donnees-privees/
+**/entrevues-brutes/
+**/consentements-signes/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+# Fichiers temporaires
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/

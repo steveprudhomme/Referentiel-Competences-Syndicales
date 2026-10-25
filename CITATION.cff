@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Pour citer ce projet en préparation, utilisez les informations suivantes."
+title: "Référentiel de compétences syndicales"
+type: software
+authors:
+  - family-names: "Prudhomme"
+    given-names: "Steve"
+repository-code: "https://github.com/steveprudhomme/Referentiel-Competences-Syndicales"
+url: "https://github.com/steveprudhomme/Referentiel-Competences-Syndicales"
+abstract: "Projet en préparation : analyse de situation de travail des élus syndicaux québécois."
