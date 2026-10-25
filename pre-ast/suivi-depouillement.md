@@ -35,3 +35,15 @@ Le registre n’est pas une promesse de saturation. Compléter les blocs restant
 - [ ] S10 : reprendre p. 63–68; échec du nouveau lien PDF dans le lecteur web consigné.
 
 Les lignes du tableau initial décrivent l’état avant le lot 4; cette mise à jour précise les blocs fermés et les restes. Voir le [contrôle qualité](controle-qualite.md).
+
+
+## Mise à jour — lot 5, contrôle sans nouvelle extraction
+
+- [x] S01 p. 312–313, PDF 21–22 : début de discussion contrôlé; avec les lots précédents, discussion et limites p. 312–316 couvertes.
+- [x] S02 p. 114–121, PDF 133–140 : début de discussion contrôlé. Fin p. 122–129 encore ouverte.
+- [x] S03 p. 238–242 et 246–249, PDF 239–243 et 247–250 : relations patronales, reconnaissance et conseils d’unité contrôlés. P. 237 et 243–245 restent à lire dans ce bloc.
+- [x] S04 p. 150–153 et 197–198 : contexte et synthèse contrôlés; reste défini dans le plan.
+- [x] S10 p. 63–68, PDF 6–11 : lien officiel ouvert et passages examinés. L’échec du lot 4 reste un fait historique, désormais résolu pour cette lecture.
+- [x] Définir les cinq blocs restants et les contrôles de fin de phase dans le [plan de clôture](plan-cloture-1b.md).
+
+Ces cases portent sur les passages indiqués. Le corpus entier n’est pas déclaré lu. Le total reste 45 fiches, dont 42 activités et trois conditions.

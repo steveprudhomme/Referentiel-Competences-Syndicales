@@ -43,3 +43,28 @@ Notice et lien PDF retestés le 25 octobre : le lecteur web n’a pas fourni le 
 - [ ] Faire la relecture finale de la matrice et établir le bilan de passage à la phase 2.
 
 Aucune demande de données ni prise de contact n’a été envoyée. La phase 1B reste en cours.
+
+
+## Reprise du contrôle — lot 5, sans nouvelle fiche
+
+Le but de ce lot est de préciser la portée des constats existants. Le registre reste à **45 extractions et 14 familles**. Aucune saturation n’est déclarée.
+
+| Passage contrôlé | Conséquence pour la pré-AST |
+|---|---|
+| S01 p. 312–313, PDF 21–22 | Les ressources et les structures influencent les rôles, sans les déterminer entièrement. Ne pas déduire une tâche d’un seul secteur ou d’une affiliation. La discussion p. 312–316 est désormais contrôlée en plusieurs lots. |
+| S02 début de discussion p. 114–121, PDF 133–140; p. 114 sans numéro visible dans le texte extrait | Le mémoire discute l’homogénéité des récits et leur lien avec l’affiliation. Il décrit aussi des ajustements du milieu de travail et des préjugés. Ces interprétations ne deviennent pas des compétences ou des différences naturelles entre femmes et hommes. Les pages suivantes restent ouvertes. |
+| S04 contexte p. 150–153, PDF 163–166, et synthèse p. 197–198, PDF 210–211 | Les niveaux d’interlocuteurs et l’accès à l’information varient. Les actions collectives n’établissent pas un pouvoir de codécision. Le tableau comparatif a été lu sous forme de texte extrait, sans nouvelle vérification visuelle des colonnes : aucun détail quantifié n’en est ajouté à la matrice. |
+| S03 p. 238–242, PDF 239–243 | Les relations diffèrent selon les représentants patronaux; certains récits évoquent des canaux distincts pour les échanges syndicaux. Une préférence rapportée n’est pas une preuve de sécurité technique d’un outil ni une recommandation d’utiliser une messagerie personnelle. |
+| S03 p. 246–249, PDF 247–250 | La participation à des conseils d’unité p. 247–248 précise les échanges dans les deux sens. Cela éclaire A06, sans créer une nouvelle tâche identique à E008. Les appréciations de reconnaissance ne mesurent pas à elles seules la qualité du travail. |
+
+### S10 — Accès résolu et lecture ciblée
+
+Le [PDF officiel](https://revues.uqac.ca/index.php/ad_machina/article/download/1099/898/2264) est accessible lors de cette reprise. Les passages p. 63–68 (PDF 6–11) ont été examinés. P. 66–67 : écoute, orientation et accompagnement décrits chez les délégués sociaux; certaines démarches sont faites avec des ressources professionnelles. La distinction entre soutien individuel et transformation du travail reste importante. Ce complément éclaire A08 et LAC07, sans ajouter une tâche d’exécutif. L’écart d’effectifs entre résumé et corps reste non résolu. Le texte entier n’est pas déclaré dépouillé.
+
+## Bilan de ce contrôle
+
+- [x] Résoudre l’accès S10 et lire les passages ciblés.
+- [x] Compléter la discussion S01.
+- [x] Approfondir des passages de S02, S03 et S04, avec pages et limites.
+- [x] Garder les compléments distincts des tâches attribuables aux fonctions étudiées.
+- [ ] Terminer les blocs définis dans le [plan de clôture](plan-cloture-1b.md), puis établir le bilan final.

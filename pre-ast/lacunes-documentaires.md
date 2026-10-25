@@ -47,3 +47,12 @@ Voir le [registre de lecture](suivi-depouillement.md) et les [familles provisoir
 | LAC06, participation | S05 p. 19 décrit un exemple d’assemblée accessible | Besoins et dispositifs adaptés aux personnes et au terrain pilote |
 
 Les réponses partielles réduisent les questions à poser : ne plus demander si un relais ou un adjoint existe « en général », mais comment il fonctionne dans le contexte étudié. Voir le [contrôle documentaire](controle-qualite.md).
+
+
+## Précisions après le contrôle du lot 5
+
+- **LAC05 — Réussite :** S03 p. 246 montre des appréciations de reconnaissance; elles ne suffisent pas à définir des critères de réussite observables. Garder les deux questions séparées.
+- **LAC06 — Participation :** S03 p. 247–248 décrit des conseils d’unité où les informations circulent dans les deux sens. Il reste à préciser quels groupes sont entendus dans le terrain pilote et comment leurs points de vue influencent les suites.
+- **LAC07 — Accompagnement :** S10 p. 66–67 distingue des activités de délégués sociaux et le recours à des ressources professionnelles. La question porte sur la répartition et les limites des rôles, sans transférer ces activités à toute vice-présidence.
+
+Le [plan de clôture](plan-cloture-1b.md) définit les lectures nécessaires avant de confirmer les lacunes finales. Aucun manque n’est déclaré à l’échelle de tout le corpus sur la seule base de ces passages.
