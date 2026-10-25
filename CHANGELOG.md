@@ -1,4 +1,10 @@
 # Journal des changements
+## 2026-10-25 — Reprise des vérifications de phase 1
+- Liens normatifs recontrôlés et preuve du vote de 2022 ajoutée; actualité des amendements toujours à confirmer.
+- Résumé Acfas rattaché à la piste S06 et calendrier 2026–2031 précisé pour S08.
+- Recherches complémentaires S09/F01 consignées; total inchangé de 19 documents retenus.
+- Préparation de 1B possible avec les réserves visibles; aucune donnée primaire demandée.
+
 ## 2026-10-25 — Thèse S03 disponible et consultée
 - PDF fourni par l’utilisateur, couverture et passages utiles vérifiés.
 - S03 intégrée au corpus principal : 19 documents retenus, 5 réserves.

@@ -19,3 +19,11 @@
 ## Ce qui reste à confirmer
 
 Retrouver un historique consolidé des amendements locaux après novembre 2022 et les textes internes pertinents. Aucune demande n'est envoyée pendant cette phase. L'absence de version plus récente trouvée en public ne prouve pas que celle de 2022 est le dernier texte applicable.
+
+## Nouvelle vérification publique — 25 octobre 2026
+
+La page du comité renvoie encore à L01 (2022), L03 (2019) et L04 (2016). Les trois liens ont été suivis de nouveau. Le lien des dépenses n’a pas fourni de document lisible dans le lecteur web; aucun accès membre utilisé.
+
+L’[annonce des résultats du 22 novembre 2022](https://www.ssphq.org/actualites/assemblee-generale-resultats-des-votes/) confirme un vote d’adoption des amendements le 2 novembre 2022. Elle confirme un événement historique, pas l’absence d’amendements plus récents.
+
+Pour lever la réserve, il faudra disposer du texte consolidé daté et de la liste des amendements adoptés après sa date, ou d’une confirmation autorisée de la version applicable. Ces pièces seront nécessaires avant le croisement de phase 4. La pré-AST peut travailler sur les études publiées en gardant cette réserve visible.

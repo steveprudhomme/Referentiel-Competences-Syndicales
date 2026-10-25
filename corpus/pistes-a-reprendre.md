@@ -13,3 +13,12 @@ Ces cinq entrées restent hors du noyau prêt au dépouillement. Leurs [fiches](
 Autre piste issue de la bibliographie de M03 : Hennebert et Dupuis (2016), « L'évolution de la négociation collective en Amérique du nord et ses effets sur le métier et les compétences du négociateur syndical », DOI 10.3917/neg.025.0055. Texte original non consulté : pas d'entrée retenue ni d'effectif attribué.
 
 S03 a quitté les réserves après réception et lecture partielle du PDF transmis par l’utilisateur. Voir [sa fiche](fiches-sources/S03.md).
+
+## Précisions après reprise des recherches
+
+- S06 : résumé Acfas retrouvé; entretiens annoncés en cours, sans bilan final. Vérifier le lien entre projets avant tout regroupement.
+- S08 : calendrier institutionnel 2026–2031 retrouvé. Prévoir un suivi futur des publications; ne pas présumer un retard de rapport final.
+- S09 et F01 : recherches complémentaires sans intégral autorisé ou protocole original obtenu.
+- L05 et amendements locaux : réserve maintenue; pièces et version à confirmer avant leur usage en phase 4.
+
+Voir le [journal de recherche](journal-selection.md) pour les requêtes et les décisions.

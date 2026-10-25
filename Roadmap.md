@@ -21,6 +21,7 @@ Les durées sont des estimations de travail, pas des dates promises. Chaque éta
   Versions publiques repérées : SSPHQ 2022, SCFP national 2025, élections 2019 et procédure d'amendement 2016. Historique des amendements locaux et règlement des dépenses encore non confirmés.
 Livrables : bibliographie commentée, inventaire et journal de sélection.
 Passage à 1B : les textes retenus sont identifiés, accessibles et leur sélection est expliquée.
+La reprise des vérifications publiques confirme que ce passage documentaire est possible avec les réserves du bilan. La confirmation des amendements locaux reste ouverte et devra être obtenue avant leur utilisation en phase 4. S08 est un projet annoncé pour 2026–2031 : son rapport final n’est pas une condition de passage à 1B.
 
 ## Phase 1B — Pré-AST documentaire
 - [ ] Lire les résultats, les tableaux, les extraits publiés et les annexes.

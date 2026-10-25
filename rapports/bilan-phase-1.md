@@ -91,3 +91,11 @@ Prochaine décision proposée : utiliser S01, S02, S03, S04 et S11 comme noyau i
 - Présence des champs de référence, accès, lecture, méthode, pages et limites contrôlée pour chaque fiche.
 - README initial inchangé; aucun PDF de tiers, transcription ou fichier privé ajouté aux commits.
 - Les accès externes réussis, partiels ou échoués sont déclarés dans les fiches; un lien repéré n'est pas présenté comme un texte lu.
+
+## 8. Reprise des vérifications publiques
+
+La reprise du 25 octobre 2026 précise S06 (résumé Acfas, collecte en cours au moment du résumé) et S08 (calendrier UdeM 2026–2031). Elle ne fournit pas de nouveaux résultats à dépouiller. Les recherches sur S09 et F01 ne lèvent pas leurs réserves.
+
+Les liens normatifs locaux ont été suivis de nouveau. Une annonce officielle confirme le vote de novembre 2022, mais aucun historique complet des amendements suivants n’a été identifié. Le règlement des dépenses reste non obtenu. Voir le [registre normatif](../corpus/documents-normatifs.md).
+
+Le corpus documentaire est prêt pour commencer 1B avec ses limites : cinq études principales accessibles et sélection expliquée. La vérification normative reste ouverte et devra être réglée avant la phase 4. Il n’est pas nécessaire d’attendre un rapport final du projet 2026–2031 pour lire les études déjà publiées. Cette conclusion est une proposition de méthode, sans validation syndicale officielle. Aucune extraction systématique de 1B ni demande de données primaires n’a été faite lors de cette reprise.

@@ -98,3 +98,15 @@ Nombre de documents du registre : 24; retenus : 19; réserves : 5. Ces nombres n
 ## Résolution de l'accès S03 par fichier fourni
 
 Le 25 octobre 2026, l'utilisateur a transmis un PDF de 434 pages. Couverture et sommaire concordent avec la thèse de Bernard Pelletier 2022. La méthode, le tableau des tâches et les débuts des annexes utiles ont été lus. S03 passe de piste à corpus principal; le total devient 19 documents retenus et 5 réserves. L'accès web défaillant demeure un fait historique, mais n'empêche plus la lecture locale. Le PDF n'est pas ajouté au dépôt public.
+
+## Reprise ciblée des pistes — 25 octobre 2026
+
+| Recherche ou navigation | Constat et décision |
+|---|---|
+| `site:ssphq.org statuts amendements 2023 2024 2025 2026`, puis comité et ses liens | PDF 2022, élections 2019 et procédure 2016 toujours liés. Annonce du 22 novembre 2022 retrouvée; pas d’historique complet identifié. Dépenses : document non obtenu. Réserve maintenue. |
+| `"Fortin Bergeron" "partage" "leadership" syndical résultats` | Résumé Acfas décrivant des entretiens en cours; résultats finaux et lien exact avec S06 non établis. Résumé seulement lu, vidéo non visionnée. |
+| `"Dufour-Poirier" "soutenabilité" mandats rapport` | Profil officiel UdeM : projet 2026–2031. S08 reste une piste de projet, pas un rapport manquant présumé terminé. |
+| `"10.1111/irj.12249" pdf` et `"irj.12249" HEC dépôt` | Notice Wiley retrouvée; aucune version intégrale autorisée obtenue par cette recherche. S09 reste en réserve. |
+| `site:afpa.fr représentants syndicaux "auditions"` et `site:travail-emploi.gouv.fr "38" "syndicaux" compétences` | Aucun protocole original confirmant les 38 auditions identifié parmi les résultats examinés. F01 reste non vérifiée. |
+
+Les liens et passages probants sont ajoutés aux fiches S06, S08 et L01. Les documents de suivi ne sont pas comptés comme de nouvelles études retenues. Le total reste 24 entrées, 19 retenues et 5 pistes. Cette recherche ciblée ne démontre pas l’inexistence des pièces non trouvées.
