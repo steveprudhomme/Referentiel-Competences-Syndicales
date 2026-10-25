@@ -1,4 +1,12 @@
 # Journal des changements
+## 2026-10-25 — Troisième lot et suivi des étapes
+- [x] Ajouter E035–E041 : 41 extractions, dont 38 activités et trois conditions.
+- [x] Proposer 14 familles reliées aux fiches.
+- [x] Contrôler les annexes ciblées et consigner les limites de confidentialité et de mentorat.
+- [x] Ajouter le registre des passages lus et des blocs restants.
+- [x] Cocher dans Roadmap les livrables réalisés, en gardant ouverts les travaux partiels.
+- [ ] Terminer les lectures et la relecture du bilan de 1B.
+
 ## 2026-10-25 — Deuxième lot de pré-AST
 - 17 nouvelles fiches de S02, S04 et S11; 34 extractions au total.
 - Activités individuelles, activités collectives et condition d’exercice distinguées.

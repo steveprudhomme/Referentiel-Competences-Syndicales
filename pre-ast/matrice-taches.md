@@ -1,6 +1,6 @@
-# Matrice provisoire — premier lot documentaire
+# Matrice provisoire — trois lots documentaires
 
-**Phase 1B en cours.** 34 extractions issues de cinq textes : 33 lignes d’activités et une condition d’exercice. Ce ne sont pas 34 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
+**Phase 1B en cours.** 41 extractions issues de cinq textes : 38 lignes d’activités et trois conditions d’exercice. Ce ne sont pas 41 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
 
 | Extraction | Source et page imprimée | Activité reformulée | Catégorie provisoire | État |
 |---|---|---|---|---|
@@ -39,6 +39,16 @@
 | [E032](extractions/E032.md) | S11, p. 12–13 | Chercher un appui de mentorat à la prise de poste | T07 | Activité; explicite, terrain non consulté |
 | [E033](extractions/E033.md) | S11, p. 13 | Solliciter des personnes pour la relève | T07 | Activité; explicite, terrain non consulté |
 | [E034](extractions/E034.md) | S11, p. 10–11 | Composer avec le cumul des responsabilités | Transversal | Condition d’exercice; explicite, terrain non consulté |
+
+| [E035](extractions/E035.md) | S03, p. 221 | Porter une position dans le débat public | T07 | Activité; explicite, terrain non consulté |
+| [E036](extractions/E036.md) | S03, p. 222 | Participer aux rencontres avec les organismes employeurs | T02 | Activité; explicite, terrain non consulté |
+| [E037](extractions/E037.md) | S02, p. 106–107 | Chercher des appuis auprès d’autres sections locales | T07 | Activité; explicite, terrain non consulté |
+| [E038](extractions/E038.md) | S02, p. 108 | Organiser une action de solidarité communautaire | T07 | Activité; explicite, terrain non consulté |
+| [E039](extractions/E039.md) | S02, p. 110 | Siéger dans des instances sectorielles ou régionales | T03 | Activité; explicite, terrain non consulté |
+| [E040](extractions/E040.md) | S03, p. 412–413 | Disposer de libérations variables selon le local | Transversal | Condition d’exercice; explicite, terrain non consulté |
+| [E041](extractions/E041.md) | S03, p. 214, 221–222, 344 | Cumuler plusieurs mandats syndicaux | Transversal | Condition d’exercice; explicite, terrain non consulté |
+
+Le lot 3 complète les réseaux, l’action publique et deux conditions. Voir le [regroupement provisoire](consolidation-provisoire.md) et le [suivi de lecture](suivi-depouillement.md).
 
 Le lot 2 ajoute S02, S04 et S11. E034 est une condition d’exercice, sans tâche nouvelle. Voir la [comparaison des deux lots](comparaison-lots-1-2.md).
 

@@ -1,4 +1,4 @@
-# Questions ouvertes après les deux premiers lots
+# Questions ouvertes après trois lots
 
 **Lecture partielle de cinq textes : S01, S02, S03, S04 et S11.** Une question sans réponse dans ce lot n’est pas une absence démontrée dans le corpus entier. Aucun accès aux données primaires n’est demandé avant le bilan complet de 1B.
 
@@ -25,3 +25,13 @@ Ces priorités sont des choix de notre équipe pour guider la lecture, pas des r
 - LAC07 : les demandes de mentorat de S11 p. 12–13 ne prouvent pas l’existence d’un service offert à toutes les personnes élues.
 
 Les lignes du tableau initial gardent la trace des questions issues du lot 1; ces précisions donnent leur évolution. Le [tableau comparatif](comparaison-lots-1-2.md) précise les limites. Les pages restantes doivent être lues avant de confirmer une absence à l’échelle d’un texte.
+
+## Apports du troisième lot
+
+- LAC01 : le début de l’annexe G de S03 décrit des titres et des cumuls, sans opérations par poste. S03 p. 345 explique une limite de confidentialité au niveau fédératif. Ne pas chercher à reconstruire les postes à partir d’indices.
+- LAC02 : l’annexe E complète les moyens de temps, pas les besoins ni leur répartition. Un libellé de temps plein comporte une nuance importante en note.
+- LAC03 : les liens entre sections et instances sont mieux décrits (E037/E039), mais pas un circuit complet de transmission de dossier.
+- LAC05 : les récits de fierté de S03 ne deviennent pas des critères universels de réussite.
+- LAC07 : demande, soutien informel et programme de mentorat doivent rester distincts; la thèse cite aussi un homme utilisant cette ressource.
+
+Voir le [registre de lecture](suivi-depouillement.md) et les [familles provisoires](consolidation-provisoire.md). Les données non publiées pour confidentialité ne deviennent pas une cible de demande individuelle. Une synthèse non identifiante ou la consultation de nouveaux élus pourra répondre à une question sans reconstituer les personnes de l’étude.
