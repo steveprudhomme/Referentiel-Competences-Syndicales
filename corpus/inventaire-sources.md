@@ -1,24 +1,48 @@
 # Inventaire des sources
-Une source repérée n'est pas une source déjà analysée. Les liens complets sont dans [la bibliographie](../docs/bibliographie.md).
 
-| Code | Source | Priorité | État | Utilité prévue |
+Consultation : 25 octobre 2026. **24 entrées uniques : 18 retenues pour la préparation et 6 pistes séparées.** Ce sont des documents, pas 24 enquêtes ni un total de participants.
+
+Les 18 documents retenus comprennent 14 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des quatre études scientifiques du noyau n'est déclarée lue intégralement.
+
+| Code et fiche | Catégorie | Accès | Lecture | Usage |
 |---|---|---|---|---|
-| S01 | Fortin-Bergeron et coll. 2019 | 1 | Repérée; ouverture non aboutie | Rôles des exécutifs |
-| S02 | Lonergan 2019 | 1 | Couverture et sommaire vérifiés; dépouillement à faire | Tâches des présidents |
-| S03 | Bernard Pelletier 2022 | 1 | Repérée; ouverture non aboutie | Genre et leadership |
-| S04 | Coderre-LaPalme 2014 | 1 | Repérée | Exécutifs SCFP municipaux |
-| S05 | ROSEPH–FTQ–CSQ 2023 | 2 | Repérée | Fiches de pratiques |
-| S06 | Leadership partagé, FRQ | 2 | Projet à vérifier | Répartition du travail |
-| S07 | Accompagnement en santé mentale | 2 | Repérée | Formation et soutien |
-| S08 | Soutenabilité des mandats | 2 | Projet à vérifier | Conditions et contraintes |
-| S09 | Négociateurs, Hennebert et coll. | 3 | Référence incomplète | Négociation |
-| S10 | Délégués sociaux, Dufour-Poirier et coll. | 3 | Référence incomplète | Accompagnement |
-| M01 | Guide AST 2002 | Méthode | Document ouvert; lecture détaillée à faire | Cadre AST |
-| M02 | EPTC 2, chapitre 5 | Méthode | À examiner | Réutilisation |
-| L01 | Statuts SSPHQ 2022 | Locale | Actualité à confirmer | Travail prescrit |
-| F01 | AFPA 2017 | Comparaison | Source primaire à retrouver | Reconnaissance |
-| F02 | Observatoire 2026 | Comparaison | Repérée | Portfolio |
-| F03 | CFDT 2004–2005 | Comparaison | Repérée | Méthode collective |
+| [S01](fiches-sources/S01.md) | principal | Texte intégral | Lue en partie | Préparation |
+| [S02](fiches-sources/S02.md) | principal | Texte intégral | Lue en partie | Préparation |
+| [S03](fiches-sources/S03.md) | piste | Notice et résumé repérés; texte intégral non récupéré | Repérée; métadonnées corroborées | Réserve |
+| [S04](fiches-sources/S04.md) | principal | Texte intégral | Lue en partie | Préparation |
+| [S05](fiches-sources/S05.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
+| [S06](fiches-sources/S06.md) | piste | Notice de projet complète | Fiche lue intégralement | Réserve |
+| [S07](fiches-sources/S07.md) | complémentaire | Page institutionnelle complète | Page lue intégralement; guides liés non lus | Préparation |
+| [S08](fiches-sources/S08.md) | piste | Notice de projet complète | Fiche lue intégralement | Réserve |
+| [S09](fiches-sources/S09.md) | piste | Résumé et notice; intégral non consulté | Résumé et référence vérifiés | Réserve |
+| [S10](fiches-sources/S10.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
+| [S11](fiches-sources/S11.md) | principal | Texte intégral | Lue en partie | Préparation |
+| [S12](fiches-sources/S12.md) | complémentaire | Texte intégral | Lue en partie | Préparation |
+| [M01](fiches-sources/M01.md) | méthode | Texte intégral | Lue en partie | Préparation |
+| [M02](fiches-sources/M02.md) | méthode | Texte intégral | Lue en partie | Préparation |
+| [M03](fiches-sources/M03.md) | méthode | Texte intégral | Lue en partie | Préparation |
+| [L01](fiches-sources/L01.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |
+| [L02](fiches-sources/L02.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |
+| [L03](fiches-sources/L03.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |
+| [L04](fiches-sources/L04.md) | normatif | Texte intégral | Lue intégralement | Préparation |
+| [L05](fiches-sources/L05.md) | piste | Lien vers connexion; document non accessible | Repérée seulement | Réserve |
+| [F01](fiches-sources/F01.md) | piste | Référence secondaire initiale; enquête originale non consultée | Repérée seulement | Réserve |
+| [F02](fiches-sources/F02.md) | comparaison internationale | Texte intégral | Lue en partie | Préparation |
+| [F03](fiches-sources/F03.md) | comparaison internationale | Texte intégral | Article de présentation lu intégralement | Préparation |
+| [F04](fiches-sources/F04.md) | comparaison internationale | Texte intégral | Page lue en partie | Préparation |
 
-Pour chaque fiche de source : code, référence exacte, lien, date de consultation, version, fonctions, secteur, territoire, échantillon réalisé ou prévu, méthode, pages, données publiques disponibles, restrictions et enquête d'origine.
-Ne pas déposer les PDF d'autrui sans vérifier les droits. Le lien vers l'éditeur suffit au départ.
+## Ordre de lecture pour préparer 1B
+
+Commencer par S01, S02, S04 et S11. Lire ensuite S05, S10 et S12 selon les besoins. S07 repère des outils spécialisés, sans fournir ici un rapport complet de résultats. M01–M03 servent de méthode; F02–F04 de comparaison. Garder les textes normatifs séparés.
+
+## Enquêtes et doublons
+
+- S03 et S11 : même thème et même équipe; S11 cite S03. Chevauchement probable à contrôler dans la thèse.
+- S09 et S12 : 45 négociateurs ou conseillers dans les deux cas; corpus commun possible, non confirmé avec le seul résumé de S09.
+- S01, S02 et S06 : programme et équipe proches; secteurs et périodes différents dans les deux premiers. Ne pas affirmer un chevauchement ni une indépendance totale sans vérification.
+- S10 synthétise des travaux plus anciens : ses références ne sont pas ajoutées comme enquêtes nouvelles sans examen.
+- Les versions française et anglaise des notices, les copies du même PDF et chaque fiche interne de S05/F02 ne sont comptées qu'une fois.
+
+## Conservation
+
+Les PDF de lecture sont hors du dépôt public. Les liens d'origine et les fiches permettent de retrouver les textes. Aucun document d'entrevue privé, consentement ou accès membre n'est ajouté.
