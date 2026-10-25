@@ -27,3 +27,6 @@ Le README présente le projet et les résultats actuels; il a été enrichi à l
 Le [rapport de travail](rapports/pre-ast-documentaire.md) présente 45 extractions de cinq textes (42 lignes d’activités et trois conditions). La phase 1B reste en cours : chaque ligne indique sa source, ses pages et ses limites. Aucun résultat n’est encore validé pour le SSPHQ.
 
 Le [regroupement provisoire](pre-ast/consolidation-provisoire.md) propose 14 familles. Le [registre de lecture](pre-ast/suivi-depouillement.md) permet de suivre les passages contrôlés et ceux qui restent à lire.
+
+
+Le [plan de clôture de 1B](pre-ast/plan-cloture-1b.md) précise maintenant les cinq blocs documentaires et les contrôles restants. Le lot 5 est un contrôle sans nouvelle extraction.

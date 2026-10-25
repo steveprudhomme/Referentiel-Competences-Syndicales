@@ -1,4 +1,12 @@
 # Journal des changements
+## 2026-10-25 — Lot 5 : contrôle et plan de clôture
+- [x] Compléter la discussion S01 et approfondir les passages ciblés S02/S03/S04.
+- [x] Résoudre l’accès au PDF S10 et examiner p. 63–68.
+- [x] Préciser les questions de reconnaissance, participation et limites de rôle.
+- [x] Définir cinq blocs documentaires restants et les contrôles de clôture.
+- [x] Conserver 45 constats et 14 familles, sans ajouter de doublon.
+- [ ] Terminer les blocs et établir le bilan de fin de 1B.
+
 ## 2026-10-25 — Lot 4 et contrôle documentaire
 - [x] Ajouter E042–E045 : 45 constats, 42 activités et trois conditions.
 - [x] Actualiser les 14 familles et les questions sur les relais, remplacements et libérations.

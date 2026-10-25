@@ -1,6 +1,6 @@
 # Pré-analyse documentaire de la situation de travail des élus syndicaux québécois
 
-**Rapport de travail, lots 1 à 4 — 25 octobre 2026. Phase 1B commencée et non terminée.** Il présente 45 extractions de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
+**Rapport de travail, lots 1 à 5 — 25 octobre 2026. Phase 1B commencée et non terminée.** Il présente 45 extractions de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
 
 ## 1. Contexte et objectifs
 
@@ -58,3 +58,7 @@ Aucun chercheur n’a été contacté. La phase 1B reste ouverte; les compétenc
 
 ## Contrôle du lot 4
 Quatre nouvelles fiches précisent les familles A03/A04/A12, sans famille supplémentaire. Le [contrôle documentaire](../pre-ast/controle-qualite.md) consigne les conclusions relues, les guides terminés et les compléments. Les relais et remplacements ont des exemples publiés; les questions portent désormais sur leurs modalités et leurs limites. Le bilan de fin de 1B reste à établir après les blocs ouverts.
+
+
+## Relecture ciblée du lot 5
+Le compte reste à 45 constats : ce lot contrôle les interprétations et les limites. La discussion de S01 est complétée; des passages de S02/S03/S04 sont approfondis et les passages ciblés de S10 sont désormais accessibles. Les compléments restent distincts des activités du noyau. Le [plan de clôture](../pre-ast/plan-cloture-1b.md) fixe les cinq blocs et les contrôles encore nécessaires avant le bilan de passage à 2. Aucun bilan final ni validation terrain n’est déclaré ici.
