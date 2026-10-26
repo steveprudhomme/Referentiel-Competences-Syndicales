@@ -47,3 +47,16 @@ Les lignes du tableau initial décrivent l’état avant le lot 4; cette mise à
 - [x] Définir les cinq blocs restants et les contrôles de fin de phase dans le [plan de clôture](plan-cloture-1b.md).
 
 Ces cases portent sur les passages indiqués. Le corpus entier n’est pas déclaré lu. Le total reste 45 fiches, dont 42 activités et trois conditions.
+
+
+## Contrôle final documentaire préparé le 26 octobre 2026
+
+- [x] B01 : S02 p. 75–76 et fin de discussion; borne de conclusion contrôlée avec le décalage de pagination signalé.
+- [x] B02 : S03 p. 237 et 243–245.
+- [x] B03 : S03 annexe C p. 404–408 et fin de G p. 419–420.
+- [x] B04 : S04 contexte et discussion/conclusion prévus, avec prolongement aux limites p. 215.
+- [x] B05 : réexaminer l’usage des compléments ciblés, sans élargissement sans besoin.
+- [x] Préparer E046–E047 et réexaminer les 14 familles; 47 fiches dont 44 activités et trois conditions.
+- [ ] Consigner le contrôle personnel et les décisions du responsable dans le [registre dédié](controle-responsable.md).
+
+Les anciennes sections gardent l’historique. L’état actuel est résumé au [bilan préparatoire](../rapports/bilan-preparatoire-phase-1b.md).

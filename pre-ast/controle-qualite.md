@@ -68,3 +68,20 @@ Le [PDF officiel](https://revues.uqac.ca/index.php/ad_machina/article/download/1
 - [x] Approfondir des passages de S02, S03 et S04, avec pages et limites.
 - [x] Garder les compléments distincts des tâches attribuables aux fonctions étudiées.
 - [ ] Terminer les blocs définis dans le [plan de clôture](plan-cloture-1b.md), puis établir le bilan final.
+
+
+## Contrôle des blocs B01–B05 — 26 octobre 2026
+
+Préparation assistée, sans validation personnelle du responsable attestée.
+
+| Bloc | Passages contrôlés | Résultat |
+|---|---|---|
+| B01 | S02 p. 75–76, PDF 92–93; p. 122–128, PDF 141–147; début de conclusion sans numéro visible PDF 150, correspondant au repère p. 129 du sommaire | Relève et transmission précisées par E046. Les discours sur la gestion et les délais juridiques sont contextualisés, sans attribuer la responsabilité de rentabilité de l’entreprise à tout élu. Les pages PDF 148–149 sont vides dans le texte extrait. |
+| B02 | S03 p. 237 et 243–245, PDF 238 et 244–246 | Décision d’équipe parfois décentralisée, parfois centrée sur la présidence. Les qualités attendues des élus sont rapportées par les présidences, pas par une enquête directe auprès de leurs membres. Aucun critère électif ni compétence validée ajouté. |
+| B03 | S03 annexe C p. 404–408, PDF 405–409; fin de G p. 419–420, PDF 420–421; début de bibliographie p. 421 contrôlé comme borne | Guide fédératif : questions seulement. Les structures locales et cumuls varient. Aucun détail de fonction non publié pour confidentialité n’est reconstruit. |
+| B04 | S04 p. 138–149 et 154–158, PDF 151–162 et 167–171; p. 199–215, PDF 212–228 | Contexte historique et distinction entre coopération quotidienne et décisions stratégiques. E047 précise la préparation des assemblées. La fin des limites p. 215 est lue au-delà du repère initial p. 214; absence de point de vue patronal direct et difficulté à distinguer influences locales et nationales conservées. |
+| B05 | Relecture des notes ciblées S05, S07, S10 et S12 dans ce contrôle et dans les fiches associées | Maintien comme compléments : accessibilité, accompagnement et négociation par d’autres fonctions. Pas de nouvelle enquête comptée ni d’extraction supplémentaire sans besoin identifié. La lecture de ces sources reste partielle. |
+
+Relecture de la formulation, de l’origine, des opérations et des limites des 45 fiches existantes, puis contrôle des deux nouvelles. Les 14 familles sont conservées comme propositions. Ce contrôle par le même outil ne remplace ni une relecture indépendante ni le jugement du responsable. Les trois conditions restent hors du compte des activités.
+
+Le périmètre de lecture ciblée B01–B05 est traité. Cela ne signifie ni lecture intégrale des ouvrages, ni revue exhaustive, ni saturation des tâches. Le [bilan préparatoire](../rapports/bilan-preparatoire-phase-1b.md) et le [registre du responsable](controle-responsable.md) séparent ce travail du jugement final.
