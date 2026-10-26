@@ -6,13 +6,17 @@ Un élu syndical écoute les membres, suit des dossiers, prépare des rencontres
 
 Ce projet de recherche vise à réaliser une **analyse de situation de travail (AST) des élus syndicaux québécois**, à partir d’études scientifiques, de documents et de consultations avec les élus. Le but est de construire un **référentiel de compétences** : un guide qui relie les tâches aux connaissances et aux façons de faire nécessaires pour les accomplir.
 
+Il s’agit d’une **recherche citoyenne indépendante en sciences de l’éducation**, centrée sur la formation des adultes. **Steve Prudhomme dirige le projet, conduit l’analyse et prend les décisions finales**, avec des consultations ponctuelles et sans comité de pilotage. Le projet cherche aussi à comprendre comment les élus apprennent leur mandat et ce qui les aide à progresser.
+
+L’IA soutient la préparation documentaire; ses productions ne valent pas une relecture indépendante. Les 45 fiches actuelles sont des documents de travail préparés avec cette assistance; leur vérification personnelle par le responsable reste à consigner. [Comprendre les rôles et les responsabilités](docs/organisation-recherche.md).
+
 **Point de départ proposé :** la vice-présidence au SSPHQ, section locale SCFP 4250. L’objectif est ensuite de proposer un outil adaptable aux autres fonctions des exécutifs syndicaux québécois.
 
 [📍 Suivre les étapes](Roadmap.md) · [📖 Lire la pré-AST](rapports/pre-ast-documentaire.md) · [🔎 Explorer les sources](corpus/inventaire-sources.md) · [🤝 Contribuer](CONTRIBUTING.md)
 
 ## Où en sommes-nous?
 
-**Au 25 octobre 2026 : la pré-AST documentaire est en cours — phase 1B.** Nous décrivons d’abord ce que les publications permettent de comprendre, avant de demander des données supplémentaires.
+**Au 26 octobre 2026 : la pré-AST documentaire est en cours — phase 1B.** Nous décrivons d’abord ce que les publications permettent de comprendre, avant de demander des données supplémentaires.
 
 | Déjà disponible | Ce que cela représente |
 |---|---|

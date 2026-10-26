@@ -31,3 +31,11 @@ Si un bloc n’apporte aucune activité nouvelle, noter ce résultat sans créer
 Pour chaque demande envisagée : une question précise, les pages déjà examinées, une synthèse minimale souhaitée, les restrictions à respecter et une solution de remplacement. La première option peut être un éclaircissement ou une synthèse non identifiante, sans demander les transcriptions complètes.
 
 Cette liste ne vaut pas demande envoyée ni autorisation d’utiliser des données privées. Les détails retirés d’une publication pour confidentialité ne doivent pas être reconstruits. Les versions des statuts restent une réserve distincte à régler avant la phase 4.
+
+
+## Organisation individuelle confirmée le 26 octobre 2026
+
+- [x] Définir le responsable des décisions et de l’analyse : Steve Prudhomme, sans comité de pilotage.
+- [ ] Consigner son contrôle personnel des fiches préparées avec l’IA et les corrections ou interprétations retenues avant le bilan final.
+
+Ce contrôle ne peut pas être attesté par une relecture de l’IA seule. Les consultations ponctuelles ne constituent pas une codécision. Voir [l’organisation de la recherche](../docs/organisation-recherche.md).

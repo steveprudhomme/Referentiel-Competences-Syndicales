@@ -54,8 +54,8 @@ Livrable : bilan d'accès. Si l'accès est refusé, poursuivre avec les textes e
 
 ## Phase 3 — Analyse secondaire complémentaire
 - [ ] Lire les seules données autorisées et compléter la matrice.
-- [ ] Faire coder une partie du corpus par deux personnes si possible; expliquer la solution retenue sinon.
-- [ ] Comparer les interprétations et garder les divergences.
+- [ ] Réaliser une analyse individuelle avec relecture différée, contre-exemples et trace des changements. Une contribution externe ponctuelle reste facultative.
+- [ ] Comparer les interprétations possibles et garder les divergences, y compris les commentaires reçus.
 - [ ] Décrire les tâches ordinaires et les situations rares : conflit, négociation, crise, remplacement.
 Livrable : matrice enrichie et plan des questions encore ouvertes.
 Passage à 4 : chaque ligne indique son origine et son niveau de preuve.
@@ -89,6 +89,14 @@ Livrables : référentiel et plan de formation. Aucun nouveau critère d'éligib
 - [ ] Vérifier anonymisation, droits de diffusion, sources et liens.
 - [ ] Publier une version générale et une adaptation locale autorisée.
 Livrables : rapport documentaire, rapport d'AST, référentiel, plan de formation et bilan méthodologique.
+
+## Organisation de la recherche — décision du 26 octobre 2026
+
+- [x] Définir Steve Prudhomme comme responsable et analyste principal, sans comité de pilotage.
+- [x] Préciser la place des consultations ponctuelles et de l’IA.
+- [x] Actualiser README, protocole, méthode, données, contributions et décisions.
+- [x] Préparer un modèle de journal réflexif.
+- [ ] Consigner la vérification personnelle par le responsable des fiches préparées avec l’IA avant le bilan final de 1B.
 
 ## Présentation et suivi du dépôt
 

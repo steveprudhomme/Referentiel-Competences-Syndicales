@@ -62,3 +62,8 @@ Quatre nouvelles fiches précisent les familles A03/A04/A12, sans famille suppl�
 
 ## Relecture ciblée du lot 5
 Le compte reste à 45 constats : ce lot contrôle les interprétations et les limites. La discussion de S01 est complétée; des passages de S02/S03/S04 sont approfondis et les passages ciblés de S10 sont désormais accessibles. Les compléments restent distincts des activités du noyau. Le [plan de clôture](../pre-ast/plan-cloture-1b.md) fixe les cinq blocs et les contrôles encore nécessaires avant le bilan de passage à 2. Aucun bilan final ni validation terrain n’est déclaré ici.
+
+
+## Organisation et attribution — cadrage du 26 octobre 2026
+
+Steve Prudhomme dirige la recherche et l’analyse, avec des consultations ponctuelles, sans comité de pilotage. Les lots documentaires ci-dessus ont été préparés avec l’assistance de l’IA. Leurs mentions d’équipe ou de relecture ne constituent ni une équipe humaine ni un contrôle indépendant. Le contrôle personnel du responsable reste à consigner avant le bilan final de 1B. Voir [l’organisation](../docs/organisation-recherche.md) et le [journal réflexif](../docs/journal-reflexif.md).

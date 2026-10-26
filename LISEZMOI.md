@@ -30,3 +30,8 @@ Le [regroupement provisoire](pre-ast/consolidation-provisoire.md) propose 14 fam
 
 
 Le [plan de clôture de 1B](pre-ast/plan-cloture-1b.md) précise maintenant les cinq blocs documentaires et les contrôles restants. Le lot 5 est un contrôle sans nouvelle extraction.
+
+
+## Qui conduit ce projet?
+
+Depuis le cadrage du 26 octobre 2026, il est présenté comme une recherche citoyenne indépendante en sciences de l’éducation. Steve Prudhomme dirige et analyse, avec des consultations ponctuelles, sans comité de pilotage. L’IA aide à la préparation documentaire. Voir [les responsabilités](docs/organisation-recherche.md) et le [journal réflexif](docs/journal-reflexif.md). La vérification personnelle des fiches par Steve n’est pas présumée.

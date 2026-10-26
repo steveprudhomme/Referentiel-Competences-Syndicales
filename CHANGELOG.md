@@ -1,4 +1,11 @@
 # Journal des changements
+## 2026-10-26 — Recherche citoyenne indépendante et direction individuelle
+- [x] Inscrire Steve Prudhomme comme responsable des décisions et de l’analyse, sans comité de pilotage.
+- [x] Préciser le rôle des consultations et l’ancrage en sciences de l’éducation.
+- [x] Déclarer l’aide de l’IA et distinguer préparation documentaire, contrôle humain et relecture indépendante.
+- [x] Ajouter l’organisation et le modèle de journal réflexif; harmoniser les documents du projet.
+- [ ] Consigner le contrôle personnel des fiches par le responsable avant le bilan final de 1B.
+
 ## 2026-10-25 — Lot 5 : contrôle et plan de clôture
 - [x] Compléter la discussion S01 et approfondir les passages ciblés S02/S03/S04.
 - [x] Résoudre l’accès au PDF S10 et examiner p. 63–68.
