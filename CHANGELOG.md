@@ -1,5 +1,16 @@
 # Journal des changements
 
+## 2026-10-26 — Deux matrices M0 et filiation Codex → Gemini
+- [x] Relire le document Gemini complet : paragraphes et six tableaux.
+- [x] Préciser que Gemini réinterprète le travail Codex, à la suite de la correction de Steve.
+- [x] Construire M0 Codex : 14 compétences hypothétiques avec appuis aux 44 activités.
+- [x] Construire la variante M0 issue de Gemini : 11 compétences hypothétiques, formulées par Codex, avec limites des rapprochements documentaires.
+- [x] Ajouter savoirs, savoir-faire, comportements, critères proposés et questions ouvertes dans les deux matrices.
+- [x] Préparer 25 lignes de suivi, sans inventer les résultats des données brutes ou des entretiens.
+- [x] Relier les matrices au référentiel, au README et aux documents de méthode et de décision.
+- [ ] Consigner l’examen personnel et les décisions de Steve; 1B reste ouverte.
+
+
 ## 2026-10-26 — Alternative Gemini avant décision
 - [x] Conserver une transcription du document reçu, son origine déclarée et son empreinte.
 - [x] Présenter côte à côte le scénario actuel et les 11 familles proposées par Gemini.

@@ -68,3 +68,9 @@ Steve pourra garder A, demander une reconstruction de B à partir des vraies fic
 | Le bilan permet-il de clore 1B et de passer à la préparation de 2? | À consigner | À consigner |
 
 La phase 1B reste ouverte. Aucune fiche n’est supprimée, aucune case de contrôle personnel n’est cochée et aucune demande de données n’est envoyée par cet ajout.
+
+## Précision de provenance et matrices M0 — 26 octobre 2026
+
+Steve précise que l’analyse de Gemini vient de celle de Codex. La relecture du document complet, paragraphes et six tableaux, confirme qu’il se présente comme une reprise de l’archive du dépôt au jalon `219ffc6`. Les scénarios sont donc liés : le scénario B est une réinterprétation du scénario A, et non une seconde analyse indépendante des études. Cette filiation explique une partie de leurs points communs; leur accord ne vaut pas corroboration indépendante.
+
+Les [deux matrices M0](../referentiel/m0/README.md) rendent cette filiation explicite. Codex a rédigé les compétences hypothétiques et les critères à partir des deux classements; la matrice dérivée de Gemini n’a pas été produite ou relue par Gemini. Ses 11 domaines sont conservés, avec des appuis réels partiels ou manquants signalés. Les écarts du document reçu restent documentés ci-dessus.

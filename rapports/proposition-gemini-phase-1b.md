@@ -2,6 +2,8 @@
 
 **Analyse produite par une autre IA, selon Steve Prudhomme. Proposition non adoptée.**
 
+**Filiation précisée par Steve le 26 octobre 2026 : Gemini a repris le travail préparé avec Codex.** Le document cite l’archive du dépôt au jalon `219ffc6`. Il s’agit d’une réinterprétation de cette base, et non d’une analyse indépendante des études. Cette précision éditoriale ne modifie pas le contenu reçu transcrit ci-dessous.
+
 Document reçu le 26 octobre 2026 : « Clôture de la Phase 1B.docx ». Modèle Gemini exact, date de génération, prompt et accès effectif aux textes : non documentés. Empreinte SHA-256 du fichier reçu : `331d009d2a16f3549f0acd24a65debea00d45e65901168b837150434a67475c1`.
 
 Cette transcription conserve le texte visible des paragraphes et tableaux dans leur ordre. Elle ne reproduit pas la mise en page, les métadonnées Word ou les éventuels éléments hors du corps du document. Les appels de citation sont conservés comme texte; ils ne constituent pas des références vérifiées par le projet. Le fichier Word original reste dans les fichiers locaux du responsable.

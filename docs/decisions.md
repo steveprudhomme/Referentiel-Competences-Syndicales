@@ -29,3 +29,7 @@ Ces choix ne constituent pas une adoption officielle par un syndicat ni une appr
 ## D14 — Présenter une alternative issue de Gemini — 26 octobre 2026
 
 À la demande de Steve, le document reçu de Gemini est conservé comme proposition d’une autre IA et présenté à côté du scénario préparé avec Codex. La demande porte sur la présentation des alternatives avant sa décision. Elle n’adopte ni les 11 familles, ni le tri des 47 fiches, ni l’ordre des priorités, ni la clôture annoncés dans ce document. Voir la [comparaison](../rapports/comparaison-scenarios-phase-1b.md) et la [transcription attribuée](../rapports/proposition-gemini-phase-1b.md). Les contrôles humains restent à consigner par Steve.
+
+## D15 — Deux M0 liées par leur origine — 26 octobre 2026
+
+Steve demande une matrice M0 pour chaque scénario, puis précise que Gemini a repris l’analyse Codex. Mise en œuvre : [M0 Codex et variante dérivée de Gemini](../referentiel/m0/README.md), avec 14 et 11 hypothèses, des colonnes communes et un suivi des versions futures. Les formulations détaillées des deux matrices sont préparées par Codex; le classement de la seconde est attribué à la réinterprétation de Gemini. Cette demande autorise la préparation des hypothèses, sans adopter leur contenu ni clore 1B. Le document Gemini complet a été relu pour préciser la filiation; aucun contrôle personnel de Steve n’est présumé.

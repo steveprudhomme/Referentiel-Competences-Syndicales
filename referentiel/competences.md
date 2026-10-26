@@ -24,3 +24,7 @@ Nous construirons un socle commun et des modules pour la présidence, le secrét
 
 Ces niveaux servent à préparer l'apprentissage. Ils ne sont ni des grades politiques ni des conditions d'élection.
 Une piste transversale de la conversation : exercer un leadership démocratique, inclusif et respectueux. Elle doit encore être reliée aux tâches validées et aux règles applicables.
+
+## Deux matrices de départ disponibles
+
+Les [M0 Codex et Gemini](m0/README.md) proposent respectivement 14 et 11 compétences hypothétiques. La variante Gemini vient de sa réinterprétation du travail Codex; les deux matrices sont mises en forme par Codex. Elles ne remplacent pas le référentiel à construire après l’analyse et les consultations. Le [registre d’évolution](m0/suivi-evolution.md) permettra de suivre les changements.

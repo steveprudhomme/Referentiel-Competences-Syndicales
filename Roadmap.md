@@ -47,6 +47,8 @@ La reprise des vérifications publiques confirme que ce passage documentaire est
 - [x] Préparer la consolidation et les quatre priorités documentaires.
 - [x] Présenter la [proposition de Gemini à côté du scénario actuel](rapports/comparaison-scenarios-phase-1b.md), avec attribution et écarts documentaires.
 - [ ] Choisir le scénario ou la combinaison à retenir, après examen des sources et des propositions.
+- [x] Construire les [deux M0](referentiel/m0/README.md), expliciter la filiation Codex → Gemini et préparer le suivi avant/après.
+- [ ] Examiner les hypothèses des M0 et consigner les choix du responsable.
 - [ ] Arrêter le bilan final de 1B et les priorités sous la responsabilité de Steve.
 Passage à 2 : les lacunes prioritaires sont décrites. Aucune demande de données primaires n'est envoyée avant ce bilan.
 

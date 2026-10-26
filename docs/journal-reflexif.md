@@ -22,3 +22,7 @@ Ce journal aide Steve Prudhomme à noter comment sa position et ses choix influe
 | Incertitude restante | À remplir |
 
 La version publique décrit les choix de méthode. Les récits identifiants, coordonnées et données privées restent hors du dépôt.
+
+## Trace de préparation assistée — 26 octobre 2026
+
+À la demande de Steve, Codex prépare deux [matrices M0](../referentiel/m0/README.md). Steve précise que l’analyse Gemini dérive du travail Codex. Cette dépendance est inscrite dans les matrices pour éviter de traiter leurs accords comme deux preuves indépendantes. Cette note décrit la préparation assistée; la réflexion personnelle de Steve sur les hypothèses, leurs effets sur les entretiens et son choix reste à écrire.

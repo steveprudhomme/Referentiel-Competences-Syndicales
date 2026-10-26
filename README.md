@@ -3,6 +3,8 @@
 
 **Avant de décider de la clôture de 1B :** consulter les [deux scénarios côte à côte, Codex et Gemini](rapports/comparaison-scenarios-phase-1b.md). Ce sont des propositions issues d’IA, à examiner par Steve.
 
+**Nos compétences supposées aujourd’hui :** [M0 Codex et variante issue de Gemini](referentiel/m0/README.md), avec leurs appuis, leurs limites et un registre pour comparer les versions après les données brutes et les entretiens. Gemini reprend le travail Codex; ces propositions ont une origine commune.
+
 ### Comprendre le travail des élus pour mieux les soutenir
 
 Un élu syndical écoute les membres, suit des dossiers, prépare des rencontres et travaille avec d’autres représentants. Mais que fait-il exactement? Avec quels moyens? Qu’est-ce qui rend son travail difficile?
