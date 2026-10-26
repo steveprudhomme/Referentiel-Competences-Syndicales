@@ -1,13 +1,13 @@
 # Regroupement provisoire des activités
 
-25 octobre 2026. **14 familles de lecture proposées**, fondées sur 42 lignes d’activités et trois conditions d’exercice. Ces familles ne sont ni 14 tâches validées, ni 14 compétences. Ce classement de notre équipe facilite la comparaison; les fiches restent la preuve à consulter.
+25 octobre 2026. **14 familles de lecture proposées**, fondées sur 44 lignes d’activités et trois conditions d’exercice. Ces familles ne sont ni 14 tâches validées, ni 14 compétences. Ce classement de notre équipe facilite la comparaison; les fiches restent la preuve à consulter.
 
 | Code | Famille proposée | Fiches d’origine | Distinction à conserver |
 |---|---|---|---|
 | A01 | Suivre et défendre les dossiers des membres | [E001](extractions/E001.md), [E005](extractions/E005.md), [E016](extractions/E016.md), [E030](extractions/E030.md) | Conserver la différence entre enquête, soutien juridique et suivi d’une réaffectation. |
-| A02 | Préparer les réunions et les décisions collectives | [E002](extractions/E002.md), [E012](extractions/E012.md), [E025](extractions/E025.md) | Organiser une réunion, participer à une instance et soumettre un mandat sont des opérations distinctes. |
+| A02 | Préparer les réunions et les décisions collectives | [E002](extractions/E002.md), [E012](extractions/E012.md), [E025](extractions/E025.md), [E047](extractions/E047.md) | Organiser une réunion, participer à une instance et soumettre un mandat sont des opérations distinctes. |
 | A03 | Organiser le travail de l’équipe et soutenir les délégués | [E003](extractions/E003.md), [E013](extractions/E013.md), [E014](extractions/E014.md), [E042](extractions/E042.md), [E043](extractions/E043.md) | Ne pas déduire un pouvoir de commandement; responsabilités à préciser par fonction. |
-| A04 | Préparer la relève et l’apprentissage du mandat | [E004](extractions/E004.md), [E031](extractions/E031.md), [E032](extractions/E032.md), [E033](extractions/E033.md), [E044](extractions/E044.md) | Distinguer aide demandée, aide obtenue, formation et programme formel. |
+| A04 | Préparer la relève et l’apprentissage du mandat | [E004](extractions/E004.md), [E031](extractions/E031.md), [E032](extractions/E032.md), [E033](extractions/E033.md), [E044](extractions/E044.md), [E046](extractions/E046.md) | Distinguer aide demandée, aide obtenue, formation et programme formel. |
 | A05 | Accueillir et informer les membres | [E006](extractions/E006.md), [E018](extractions/E018.md), [E019](extractions/E019.md), [E020](extractions/E020.md) | Les moyens changent selon le public et le lieu; aucune cadence générale. |
 | A06 | Recueillir les préoccupations et consulter | [E008](extractions/E008.md), [E021](extractions/E021.md), [E027](extractions/E027.md) | La tournée, l’écoute et la consultation d’un mandat ne se remplacent pas. |
 | A07 | Intervenir dans un différend | [E007](extractions/E007.md) | Désaccord sur les conflits entre membres : conserver cette frontière de rôle ouverte. |
@@ -41,3 +41,6 @@ La distribution par fonction, les critères de réussite, les passages de relais
 
 ## Révision du lot 4
 E042–E045 précisent les familles A03, A04 et A12 sans créer de nouvelle famille. LAC03 et LAC04 ont désormais des exemples de relais et de préparation au remplacement, mais pas de chaîne complète ni de procédure commune.
+
+## Réexamen du 26 octobre 2026
+Les 14 familles sont maintenues comme classement de travail après relecture de leurs intitulés et des fiches associées. E046 précise A04 et E047 précise A02. Aucune fusion n’est proposée : informer (A05), consulter (A06), organiser une décision (A02) et mobiliser (A10) gardent des objets différents. A14 reste un exemple spécialisé, pas une obligation du socle commun. Ce choix est préparé avec l’IA, sans décision finale attribuée au responsable.

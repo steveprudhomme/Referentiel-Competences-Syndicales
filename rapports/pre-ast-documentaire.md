@@ -1,6 +1,6 @@
 # Pré-analyse documentaire de la situation de travail des élus syndicaux québécois
 
-**Rapport de travail, lots 1 à 5 — 25 octobre 2026. Phase 1B commencée et non terminée.** Il présente 45 extractions de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
+**Rapport de travail, lots 1 à 5 et contrôle de clôture — 26 octobre 2026. Phase 1B commencée et non terminée.** Il présente 47 extractions de cinq textes : 44 lignes d’activités et trois conditions d’exercice. Ce n’est pas une AST validée ni un référentiel de compétences.
 
 ## 1. Contexte et objectifs
 
@@ -33,7 +33,7 @@ La lecture et le dépouillement restent partiels dans chacun de ces textes. Les 
 
 ## 4. Tâches et opérations
 
-La [matrice](../pre-ast/matrice-taches.md) relie chaque activité à une fiche E001–E045. Les premiers passages montrent des activités administratives, la préparation des réunions, la défense des droits, le soutien des délégués, la circulation de l’information, l’accompagnement et la participation collective. Ce sont des descriptions partielles de mandats, sans classement d’importance.
+La [matrice](../pre-ast/matrice-taches.md) relie chaque activité à une fiche E001–E047. Les premiers passages montrent des activités administratives, la préparation des réunions, la défense des droits, le soutien des délégués, la circulation de l’information, l’accompagnement et la participation collective. Ce sont des descriptions partielles de mandats, sans classement d’importance.
 
 Deux différences doivent rester visibles. Organiser la réunion locale et participer à une instance supérieure ne sont pas la même opération. Informer les membres et recueillir leurs préoccupations correspondent à deux directions de communication. La [comparaison des lots](../pre-ast/comparaison-lots-1-2.md) précise les premiers rapprochements, sans fusion définitive. S02 ajoute l’accueil, la tournée et les mandats; S04 la gestion collective de projets de sous-traitance. S11 apporte notamment des limites d’accès au mentorat et des conditions d’exercice. E034 reste une condition, sans tâche inventée.
 
@@ -67,3 +67,7 @@ Le compte reste à 45 constats : ce lot contrôle les interprétations et les li
 ## Organisation et attribution — cadrage du 26 octobre 2026
 
 Steve Prudhomme dirige la recherche et l’analyse, avec des consultations ponctuelles, sans comité de pilotage. Les lots documentaires ci-dessus ont été préparés avec l’assistance de l’IA. Leurs mentions d’équipe ou de relecture ne constituent ni une équipe humaine ni un contrôle indépendant. Le contrôle personnel du responsable reste à consigner avant le bilan final de 1B. Voir [l’organisation](../docs/organisation-recherche.md) et le [journal réflexif](../docs/journal-reflexif.md).
+
+
+## État préparatoire après les blocs de clôture
+Les blocs B01–B05 et la relecture assistée des formulations sont effectués dans le périmètre ciblé, sans lecture intégrale de tous les ouvrages. Deux fiches supplémentaires portent le total à 47, dont 44 activités et trois conditions. Le [bilan préparatoire](bilan-preparatoire-phase-1b.md) précise les acquis, les limites et quatre priorités pour des compléments éventuels. Le [contrôle personnel du responsable](../pre-ast/controle-responsable.md) reste non consigné; aucun passage définitif à 2 n’est déclaré.

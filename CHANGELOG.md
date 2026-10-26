@@ -1,4 +1,13 @@
 # Journal des changements
+## 2026-10-26 — Blocs de clôture et bilan préparatoire de 1B
+- [x] Traiter B01–B05 dans le périmètre de lecture ciblée et consigner les pages.
+- [x] Ajouter E046–E047 : 47 constats, 44 activités et trois conditions.
+- [x] Réexaminer les 14 familles et les formulations sous assistance de l’IA.
+- [x] Préparer le bilan et quatre priorités de données, sans prise de contact.
+- [x] Créer un registre personnel de 47 fiches, sans aucune case cochée au nom de Steve.
+- [x] Actualiser les comptes et l’avancement documentaire.
+- [ ] Consigner la décision du responsable et clore formellement 1B.
+
 ## 2026-10-26 — Recherche citoyenne indépendante et direction individuelle
 - [x] Inscrire Steve Prudhomme comme responsable des décisions et de l’analyse, sans comité de pilotage.
 - [x] Préciser le rôle des consultations et l’ancrage en sciences de l’éducation.

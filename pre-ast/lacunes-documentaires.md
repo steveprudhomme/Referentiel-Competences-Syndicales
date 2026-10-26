@@ -56,3 +56,10 @@ Les réponses partielles réduisent les questions à poser : ne plus demander si
 - **LAC07 — Accompagnement :** S10 p. 66–67 distingue des activités de délégués sociaux et le recours à des ressources professionnelles. La question porte sur la répartition et les limites des rôles, sans transférer ces activités à toute vice-présidence.
 
 Le [plan de clôture](plan-cloture-1b.md) définit les lectures nécessaires avant de confirmer les lacunes finales. Aucun manque n’est déclaré à l’échelle de tout le corpus sur la seule base de ces passages.
+
+
+## État préparatoire après B01–B05 — 26 octobre 2026
+
+LAC03 et LAC04 sont partiellement renseignées : E042 décrit un relais, E044 une préparation d’adjoint, E046 une succession préparée. La chaîne complète, les critères d’escalade et les modalités du poste pilote restent ouverts. LAC01 n’est pas résolue par le seul fait qu’une vice-présidence apparaît comme apprenante. LAC05 ne devient pas une mesure de compétence à partir de qualités attendues rapportées par des présidences.
+
+Les quatre [priorités proposées au bilan](../rapports/bilan-preparatoire-phase-1b.md) regroupent les questions restantes sans déclarer leur absence dans toute la littérature. Elles restent à arrêter par Steve Prudhomme. Les demandes et alternatives sont seulement préparées, aucune n’est envoyée.

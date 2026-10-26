@@ -18,7 +18,7 @@ Le responsable explique les suites données aux commentaires et garde les désac
 
 L’IA aide au repérage, à la lecture, à la rédaction, aux comparaisons et aux contrôles documentaires. Elle peut se tromper. Le responsable reste celui qui décide des interprétations adoptées.
 
-Les 45 fiches actuellement présentes ont été préparées avec l’assistance de l’IA. Dans les lots antérieurs, les mentions « assistant Codex », « notre équipe » ou « relecture » ne désignent pas une équipe humaine de recherche. Elles ne prouvent pas que Steve a personnellement vérifié ou approuvé chaque fiche. Cette vérification reste à consigner.
+Les 47 fiches actuellement présentes ont été préparées avec l’assistance de l’IA. Dans les lots antérieurs, les mentions « assistant Codex », « notre équipe » ou « relecture » ne désignent pas une équipe humaine de recherche. Elles ne prouvent pas que Steve a personnellement vérifié ou approuvé chaque fiche. Cette vérification reste à consigner.
 
 Une nouvelle réponse de l’IA ou sa propre relecture n’est pas un deuxième analyste indépendant. Aucun accord entre codeurs ni validation scientifique indépendante n’est revendiqué. Les données privées ne sont pas envoyées à un outil externe sans autorisation adaptée.
 

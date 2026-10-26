@@ -8,7 +8,7 @@ Ce projet de recherche vise à réaliser une **analyse de situation de travail (
 
 Il s’agit d’une **recherche citoyenne indépendante en sciences de l’éducation**, centrée sur la formation des adultes. **Steve Prudhomme dirige le projet, conduit l’analyse et prend les décisions finales**, avec des consultations ponctuelles et sans comité de pilotage. Le projet cherche aussi à comprendre comment les élus apprennent leur mandat et ce qui les aide à progresser.
 
-L’IA soutient la préparation documentaire; ses productions ne valent pas une relecture indépendante. Les 45 fiches actuelles sont des documents de travail préparés avec cette assistance; leur vérification personnelle par le responsable reste à consigner. [Comprendre les rôles et les responsabilités](docs/organisation-recherche.md).
+L’IA soutient la préparation documentaire; ses productions ne valent pas une relecture indépendante. Les 47 fiches actuelles sont des documents de travail préparés avec cette assistance; leur vérification personnelle par le responsable reste à consigner. [Comprendre les rôles et les responsabilités](docs/organisation-recherche.md).
 
 **Point de départ proposé :** la vice-présidence au SSPHQ, section locale SCFP 4250. L’objectif est ensuite de proposer un outil adaptable aux autres fonctions des exécutifs syndicaux québécois.
 
@@ -22,7 +22,7 @@ L’IA soutient la préparation documentaire; ses productions ne valent pas une 
 |---|---|
 | **19 documents retenus** | Consultés au moins en partie, parmi 24 entrées; 5 pistes restent séparées |
 | **5 textes principaux dans la matrice** | Fortin-Bergeron et coll., Lonergan, Bernard Pelletier, Coderre-LaPalme et Bernard Pelletier–Le Capitaine |
-| **45 constats documentaires** | 42 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
+| **47 constats documentaires** | 44 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
 | **14 familles provisoires** | Des regroupements pour comparer les activités; plusieurs constats peuvent concerner une même tâche |
 
 Les lectures restent partielles. Les tâches ne sont pas encore validées avec les élus ni attribuées au poste de vice-présidence du SSPHQ. Les versions et amendements locaux restent à confirmer avant la comparaison détaillée avec les statuts.
@@ -93,3 +93,5 @@ La pré-AST actuelle est un **rapport de travail**. Le référentiel, l’AST te
 Vous pouvez proposer une source, signaler une erreur de page ou expliquer une différence entre fonctions en suivant le [guide de contribution](CONTRIBUTING.md). Les [décisions du projet](docs/decisions.md) gardent la trace des choix et de leur statut.
 
 Les documents de tiers et les données privées gardent leurs propres droits. La licence générale du dépôt reste [à choisir](LICENSE). Pour citer le projet, les informations sont dans [CITATION.cff](CITATION.cff).
+
+Le [bilan préparatoire de 1B](rapports/bilan-preparatoire-phase-1b.md) et le [registre de contrôle du responsable](pre-ast/controle-responsable.md) séparent le travail documentaire assisté de la décision finale. Les cinq blocs ciblés sont traités; le contrôle personnel et la clôture de phase ne sont pas présumés.

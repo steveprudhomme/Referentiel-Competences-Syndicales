@@ -1,6 +1,6 @@
-# Matrice provisoire — quatre lots documentaires
+# Matrice provisoire — lots documentaires et contrôle de clôture
 
-**Phase 1B en cours.** 45 extractions issues de cinq textes : 42 lignes d’activités et trois conditions d’exercice. Ce ne sont pas 45 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
+**Phase 1B en cours.** 47 extractions issues de cinq textes : 44 lignes d’activités et trois conditions d’exercice. Ce ne sont pas 47 tâches finales ni un inventaire complet du poste. Chaque fiche précise les pages du PDF, le contexte, les opérations et les limites. Lecture : 25 octobre 2026.
 
 | Extraction | Source et page imprimée | Activité reformulée | Catégorie provisoire | État |
 |---|---|---|---|---|
@@ -52,6 +52,11 @@
 | [E043](extractions/E043.md) | S03, p. 230, 235 | Clarifier les rôles dans l’équipe | A03 | Activité explicite; terrain non consulté |
 | [E044](extractions/E044.md) | S03, p. 231 | Préparer un adjoint à assurer un remplacement | A04 | Activité explicite; terrain non consulté |
 | [E045](extractions/E045.md) | S03, p. 234–235 | Adapter les libérations à la charge du mandat | A12 | Activité explicite; terrain non consulté |
+
+| [E046](extractions/E046.md) | S02, p. 125 | Préparer une vice-présidence à une succession | A04 | Activité explicite; contrôle humain non consigné |
+| [E047](extractions/E047.md) | S04, p. 145 | Préparer l’information avant une assemblée | A02 | Activité explicite; contrôle humain non consigné |
+
+Le contrôle du 26 octobre ajoute E046–E047 et prépare le [bilan documentaire](../rapports/bilan-preparatoire-phase-1b.md).
 
 Le lot 4 précise les relais, la clarification des rôles, un remplacement préparé et l’ajustement des libérations.
 
