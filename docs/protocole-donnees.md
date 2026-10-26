@@ -17,3 +17,12 @@ Tenir un registre privé des accès, des restrictions et des destructions.
 ## Avant de publier
 Vérifier les récits reconnaissables, les petits groupes et les combinaisons de fonctions. Publier seulement les résultats autorisés.
 Les noms et coordonnées des participants restent privés. Garder une fiche publique résumant l'état des autorisations sans joindre les accords confidentiels.
+
+
+## Responsabilités dans le projet indépendant
+
+Steve Prudhomme est responsable des décisions d’accès, de conservation et de diffusion. Aucun comité de pilotage n’est prévu; cela ne remplace pas l’examen des exigences éthiques applicables au cadre réel du projet. Avant toute collecte ou réutilisation privée, consigner ce cadre et les autorisations nécessaires. Cette note ne constitue pas une approbation éthique.
+
+Préciser la liberté de refuser et de se retirer selon les modalités annoncées. Distinguer le rôle de chercheur d’un éventuel rôle syndical auprès de la personne. Ne pas laisser entendre qu’une participation est attendue pour obtenir un service syndical. Une permission de l’organisation ne vaut pas consentement individuel.
+
+L’aide de l’IA au travail documentaire public ne donne aucune autorisation de lui transmettre les futurs entretiens. Les choix relatifs aux outils externes doivent être traités séparément avant l’usage des données concernées.

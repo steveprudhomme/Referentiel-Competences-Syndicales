@@ -1,6 +1,9 @@
-# Protocole de recherche — version de départ
+# Protocole de recherche — recherche citoyenne indépendante
 ## Notre question
-Que font les membres des exécutifs syndicaux québécois? Comment le font-ils? De quels moyens et compétences ont-ils besoin?
+Que font les membres des exécutifs syndicaux québécois? Comment le font-ils? De quels moyens et compétences ont-ils besoin? Comment apprennent-ils leur mandat et quels soutiens de formation, de mentorat ou d’entraide les aident à progresser?
+
+## Organisation
+Steve Prudhomme dirige le projet, conduit l’analyse et prend les décisions finales, avec des consultations ponctuelles et sans comité de pilotage. Le projet s’inscrit en sciences de l’éducation, dans la formation des adultes. Les rôles, les limites de l’analyse individuelle et l’aide de l’IA sont précisés dans [l’organisation de la recherche](organisation-recherche.md).
 
 ## Portée
 Nous préparons un outil général pour les élus québécois et une adaptation au SCFP 4250, le SSPHQ. Le pilote porte d'abord sur la vice-présidence. Une pratique observée chez des présidents ne sera pas attribuée automatiquement aux vice-présidents.
@@ -23,7 +26,7 @@ Une hypothèse ne devient pas un fait parce qu'elle semble logique. Les désacco
 
 ## Participation et usage
 L'animation doit permettre une parole libre. Le projet sert à apprendre, à soutenir les élus et à reconnaître les acquis.
-Les participants ne sont pas évalués individuellement. Le référentiel ne crée ni conditions d'élection ni motifs de destitution.
+Les personnes consultées peuvent corriger ou contester une interprétation; elles ne décident pas collectivement du projet. Le responsable consigne les suites données et les désaccords. Les participants ne sont pas évalués individuellement. Le référentiel ne crée ni conditions d'élection ni motifs de destitution.
 Les autorisations nécessaires sont vérifiées avant les entrevues ou l'accès aux données privées. Voir [le protocole de données](protocole-donnees.md).
 
 ## Résultats attendus
