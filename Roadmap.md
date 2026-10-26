@@ -45,6 +45,8 @@ La reprise des vérifications publiques confirme que ce passage documentaire est
 - [x] Produire une matrice provisoire, une carte des questions ouvertes et un rapport de travail en six chapitres.
 - [x] Proposer 14 familles avec renvoi aux fiches, en séparant trois conditions d’exercice.
 - [x] Préparer la consolidation et les quatre priorités documentaires.
+- [x] Présenter la [proposition de Gemini à côté du scénario actuel](rapports/comparaison-scenarios-phase-1b.md), avec attribution et écarts documentaires.
+- [ ] Choisir le scénario ou la combinaison à retenir, après examen des sources et des propositions.
 - [ ] Arrêter le bilan final de 1B et les priorités sous la responsabilité de Steve.
 Passage à 2 : les lacunes prioritaires sont décrites. Aucune demande de données primaires n'est envoyée avant ce bilan.
 

@@ -1,4 +1,12 @@
 # Journal des changements
+
+## 2026-10-26 — Alternative Gemini avant décision
+- [x] Conserver une transcription du document reçu, son origine déclarée et son empreinte.
+- [x] Présenter côte à côte le scénario actuel et les 11 familles proposées par Gemini.
+- [x] Signaler les écarts de sources, de fiches, de familles et de phases.
+- [x] Distinguer les deux analyses IA des décisions et vérifications humaines.
+- [ ] Consigner le choix de Steve; aucune clôture de 1B effectuée par cet ajout.
+
 ## 2026-10-26 — Blocs de clôture et bilan préparatoire de 1B
 - [x] Traiter B01–B05 dans le périmètre de lecture ciblée et consigner les pages.
 - [x] Ajouter E046–E047 : 47 constats, 44 activités et trois conditions.

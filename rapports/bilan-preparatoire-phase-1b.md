@@ -43,3 +43,7 @@ Ces priorités sont des propositions préparées avec l’IA. La fréquence, les
 Les données sont surtout des récits d’élus, parfois des actions collectives ou des pratiques de conseillers. S03/S11 peuvent partager des données; aucun effectif global n’est calculé. Les désaccords de rôle et les discordances de nombres restent visibles. La proximité des secteurs, des fonctions et des périodes limite le transfert au SSPHQ.
 
 La préparation et la relecture assistées ne remplacent pas une décision personnelle du responsable. Le [registre de contrôle](../pre-ast/controle-responsable.md) permet de consigner ce qu’il retient, corrige ou écarte. La phase 1B reste ouverte pour cette revue et la décision de bilan. Aucune demande primaire, collecte ou consultation n’a été menée dans cette reprise.
+
+## Alternative reçue le 26 octobre 2026
+
+Steve demande de présenter l’analyse attribuée à Gemini à côté de cette proposition. Voir la [comparaison des scénarios A et B](comparaison-scenarios-phase-1b.md). Cette intégration ne vaut pas adoption du classement ou des conclusions de l’une des deux IA.

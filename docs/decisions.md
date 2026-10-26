@@ -25,3 +25,7 @@ Toute nouvelle décision doit préciser sa date, son auteur, sa raison et les fi
 | D13 | Transparence sur la préparation assistée, mise en œuvre par Codex du cadre convenu | Les 45 fiches préparées avec l’IA restent des documents de travail; aucune vérification personnelle par Steve ni validation indépendante n’est présumée. Organisation, méthode et journal réflexif le précisent. |
 
 Ces choix ne constituent pas une adoption officielle par un syndicat ni une approbation éthique. L’historique des lots conserve leurs auteurs de préparation et leurs limites.
+
+## D14 — Présenter une alternative issue de Gemini — 26 octobre 2026
+
+À la demande de Steve, le document reçu de Gemini est conservé comme proposition d’une autre IA et présenté à côté du scénario préparé avec Codex. La demande porte sur la présentation des alternatives avant sa décision. Elle n’adopte ni les 11 familles, ni le tri des 47 fiches, ni l’ordre des priorités, ni la clôture annoncés dans ce document. Voir la [comparaison](../rapports/comparaison-scenarios-phase-1b.md) et la [transcription attribuée](../rapports/proposition-gemini-phase-1b.md). Les contrôles humains restent à consigner par Steve.

@@ -44,3 +44,7 @@ E042–E045 précisent les familles A03, A04 et A12 sans créer de nouvelle fami
 
 ## Réexamen du 26 octobre 2026
 Les 14 familles sont maintenues comme classement de travail après relecture de leurs intitulés et des fiches associées. E046 précise A04 et E047 précise A02. Aucune fusion n’est proposée : informer (A05), consulter (A06), organiser une décision (A02) et mobiliser (A10) gardent des objets différents. A14 reste un exemple spécialisé, pas une obligation du socle commun. Ce choix est préparé avec l’IA, sans décision finale attribuée au responsable.
+
+## Scénario alternatif à examiner
+
+Une proposition attribuée à Gemini envisage 11 familles. Elle est présentée dans la [comparaison des scénarios](../rapports/comparaison-scenarios-phase-1b.md), avec ses écarts par rapport aux fiches. Les 14 familles ci-dessus restent le classement de travail; Steve n’a pas encore choisi entre les possibilités.
