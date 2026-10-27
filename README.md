@@ -5,6 +5,8 @@
 
 **Nos compétences supposées aujourd’hui :** [M0 Codex et variante issue de Gemini](referentiel/m0/README.md), avec leurs appuis, leurs limites et un registre pour comparer les versions après les données brutes et les entretiens. Gemini reprend le travail Codex; ces propositions ont une origine commune.
 
+**Présentation actualisée :** [matrices M0.1 en PDF et LaTeX](referentiel/m0/methode-m0-1.md), avec compétences particulières, compétences générales et relations hypothétiques.
+
 ### Comprendre le travail des élus pour mieux les soutenir
 
 Un élu syndical écoute les membres, suit des dossiers, prépare des rencontres et travaille avec d’autres représentants. Mais que fait-il exactement? Avec quels moyens? Qu’est-ce qui rend son travail difficile?
@@ -25,7 +27,7 @@ L’IA soutient la préparation documentaire; ses productions ne valent pas une 
 
 | Déjà disponible | Ce que cela représente |
 |---|---|
-| **19 documents retenus** | Consultés au moins en partie, parmi 24 entrées; 5 pistes restent séparées |
+| **20 documents retenus** | Consultés au moins en partie, parmi 25 entrées; 5 pistes restent séparées; ajout du guide méthodologique M04 |
 | **5 textes principaux dans la matrice** | Fortin-Bergeron et coll., Lonergan, Bernard Pelletier, Coderre-LaPalme et Bernard Pelletier–Le Capitaine |
 | **47 constats documentaires** | 44 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
 | **14 familles provisoires** | Des regroupements pour comparer les activités; plusieurs constats peuvent concerner une même tâche |

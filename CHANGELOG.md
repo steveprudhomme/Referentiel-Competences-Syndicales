@@ -1,5 +1,15 @@
 # Journal des changements
 
+## 2026-10-26 — M0.1, matrices à double entrée et guide M04
+- [x] Reconnaître que les listes M0 ne reprenaient pas toute la méthode du guide signalé par Steve.
+- [x] Lire les sections ciblées et examiner les annexes III–IV; ajouter M04 et actualiser le registre à 25 documents.
+- [x] Proposer 13 compétences particulières pour Codex, 14 pour la variante Gemini et six générales communes.
+- [x] Tracer les parents M0, les déterminants, les buts et les liens hypothétiques.
+- [x] Produire deux documents LaTeX/PDF, avec types d’objectifs proposés et durées non déterminées.
+- [x] Compiler les deux projets, vérifier visuellement leurs cinq pages et contrôler les liens et correspondances.
+- [ ] Consigner les choix de Steve et la confrontation aux données; 1B reste ouverte.
+
+
 ## 2026-10-26 — Deux matrices M0 et filiation Codex → Gemini
 - [x] Relire le document Gemini complet : paragraphes et six tableaux.
 - [x] Préciser que Gemini réinterprète le travail Codex, à la suite de la correction de Steve.

@@ -39,3 +39,7 @@ Les colonnes M1/M2 devront préciser : formulation proposée, statut (conservée
 | À renseigner | À renseigner | À renseigner | À renseigner | À renseigner | À renseigner | À renseigner |
 
 Les conditions d’exercice des deux scénarios doivent aussi être réexaminées dans ce journal, avec leurs codes ou leurs libellés. Comparer les contenus, pas seulement le nombre de lignes : passer de 14 à 11 ne démontre pas une amélioration. Les deux scénarios partagent une origine; ne pas additionner leurs propositions comme 25 compétences distinctes déjà établies.
+
+## Révision de méthode M0.1 — avant les données brutes
+
+Les [correspondances M0 → M0.1](correspondances-m0-1.md) consignent les reformulations, déplacements et divisions proposés le 26 octobre 2026. Elles sont dues à la lecture du guide M04, pas à de nouveaux résultats empiriques. Les colonnes M1 et M2 restent « Non examiné ». Les codes CP-C, CP-G et CG permettent de poursuivre le suivi des nouvelles propositions. Toute décision future précisera le scénario, le code, le parent et la preuve examinée.

@@ -110,3 +110,7 @@ Le 25 octobre 2026, l'utilisateur a transmis un PDF de 434 pages. Couverture et 
 | `site:afpa.fr représentants syndicaux "auditions"` et `site:travail-emploi.gouv.fr "38" "syndicaux" compétences` | Aucun protocole original confirmant les 38 auditions identifié parmi les résultats examinés. F01 reste non vérifiée. |
 
 Les liens et passages probants sont ajoutés aux fiches S06, S08 et L01. Les documents de suivi ne sont pas comptés comme de nouvelles études retenues. Le total reste 24 entrées, 19 retenues et 5 pistes. Cette recherche ciblée ne démontre pas l’inexistence des pièces non trouvées.
+
+## Ajout méthodologique M04 — 26 octobre 2026
+
+À la demande de Steve, le guide ministériel de conception de programmes (2004) est consulté pour revoir la forme et la construction des matrices. Lecture ciblée et limites consignées dans [M04](fiches-sources/M04.md). Total actuel : 25 documents, 20 retenus et 5 pistes. Le noyau empirique et les 47 extractions ne changent pas. Les comptes précédents restent les états historiques de sélection.

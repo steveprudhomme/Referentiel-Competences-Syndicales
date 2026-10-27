@@ -18,3 +18,7 @@ Ne jamais inventer une opération, une fréquence ou un critère de réussite ab
 ## Solidité des données
 Préciser la proximité de la fonction étudiée, la richesse du passage, la diversité des contextes et l'indépendance des enquêtes. Garder une justification écrite plutôt qu'un score qui semble certain.
 L’analyse est conduite par un seul responsable humain. Aucun double codage indépendant n’est déclaré. Les relectures de l’IA ne constituent pas un second analyste. Consigner les limites, les contre-exemples et les choix dans le [journal réflexif](journal-reflexif.md).
+
+## Construction des matrices de compétences — M0.1
+
+Les premières M0 étaient des listes d’hypothèses. À la demande de Steve, la [note M0.1](../referentiel/m0/methode-m0-1.md) décrit leur adaptation au guide ministériel M04 : distinction des compétences particulières et générales, correspondances aux sources, relations proposées et processus à examiner. Les catégories, types d’objectifs et durées restent à décider; les cases de la matrice ne deviennent pas des observations.

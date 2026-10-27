@@ -1,5 +1,7 @@
 # Deux matrices M0 : notre point de départ
 
+**Nouvelle présentation :** consulter les [M0.1 en PDF et LaTeX](methode-m0-1.md), adaptées à la structure du guide ministériel. Les listes ci-dessous sont conservées comme version initiale.
+
 26 octobre 2026. M0 signifie « matrice au départ ». Elle montre les compétences que nous pouvons **supposer** avant d’examiner des données brutes et de mener les entretiens. Steve demande deux versions pour pouvoir comparer leur évolution.
 
 | Matrice | Origine | Contenu |

@@ -64,3 +64,7 @@ La lecture est principalement partielle : vérifier une méthode et repérer des
 ## Informations historiques conservées
 
 La [synthèse de la conversation](historique-conversation.md) conserve l'évolution du projet. Les anciens repères statutaires de l'[outil de correspondance](../ast/correspondance-statuts.md) restent des hypothèses pour la phase 4. Aucun droit de republier les études n'est présumé.
+
+## Complément méthodologique du 26 octobre 2026
+
+- **M04.** Québec, ministère de l’Éducation (2004). *Guide de conception et de production d’un programme d’études professionnelles*. ISBN 2-550-41213-3. [Texte source](https://www.inforoutefpt.org/ministere_docs/adminInfo/guideProgramme/GuideConceptionProduction_FP.pdf). Lecture ciblée pour la construction des M0.1; voir la [fiche](../corpus/fiches-sources/M04.md) et la [note d’adaptation](../referentiel/m0/methode-m0-1.md).

@@ -1,8 +1,8 @@
 # Inventaire des sources
 
-Consultation : 25 octobre 2026. **24 entrées uniques : 19 retenues pour la préparation et 5 pistes séparées.** Ce sont des documents, pas 24 enquêtes ni un total de participants.
+Mise à jour : 26 octobre 2026. **25 entrées uniques : 20 retenues pour la préparation et 5 pistes séparées.** Ce sont des documents, pas 25 enquêtes ni un total de participants.
 
-Les 19 documents retenus comprennent 15 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des cinq études scientifiques du noyau n'est déclarée lue intégralement.
+Les 20 documents retenus comprennent 16 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des cinq études scientifiques du noyau n'est déclarée lue intégralement.
 
 | Code et fiche | Catégorie | Accès | Lecture | Usage |
 |---|---|---|---|---|
@@ -21,6 +21,7 @@ Les 19 documents retenus comprennent 15 PDF et 4 pages HTML. Tous ont été cons
 | [M01](fiches-sources/M01.md) | méthode | Texte intégral | Lue en partie | Préparation |
 | [M02](fiches-sources/M02.md) | méthode | Texte intégral | Lue en partie | Préparation |
 | [M03](fiches-sources/M03.md) | méthode | Texte intégral | Lue en partie | Préparation |
+| [M04](fiches-sources/M04.md) | méthode | Texte intégral | Sections 1.2 et 2.1–2.5, annexes III–IV ciblées | Construction M0.1 |
 | [L01](fiches-sources/L01.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |
 | [L02](fiches-sources/L02.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |
 | [L03](fiches-sources/L03.md) | normatif | Texte intégral | Lue en partie pour repérage | Préparation |

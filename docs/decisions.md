@@ -33,3 +33,7 @@ Ces choix ne constituent pas une adoption officielle par un syndicat ni une appr
 ## D15 — Deux M0 liées par leur origine — 26 octobre 2026
 
 Steve demande une matrice M0 pour chaque scénario, puis précise que Gemini a repris l’analyse Codex. Mise en œuvre : [M0 Codex et variante dérivée de Gemini](../referentiel/m0/README.md), avec 14 et 11 hypothèses, des colonnes communes et un suivi des versions futures. Les formulations détaillées des deux matrices sont préparées par Codex; le classement de la seconde est attribué à la réinterprétation de Gemini. Cette demande autorise la préparation des hypothèses, sans adopter leur contenu ni clore 1B. Le document Gemini complet a été relu pour préciser la filiation; aucun contrôle personnel de Steve n’est présumé.
+
+## D16 — Adapter les M0 à la méthode du guide — 26 octobre 2026
+
+Steve demande une forme semblable à la matrice du guide ministériel, avec possibilité de LaTeX. Codex constate que les premières M0 n’appliquaient pas toute cette démarche. Mise en œuvre : [M0.1](../referentiel/m0/methode-m0-1.md), avec grilles à double entrée, tables de correspondance et registre des liens. Les nouveaux classements sont proposés par Codex; les anciennes M0 sont conservées. Choix définitifs des compétences, objectifs, durées et passage de phase à consigner par Steve.

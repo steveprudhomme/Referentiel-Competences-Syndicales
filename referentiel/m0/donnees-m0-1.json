@@ -1,0 +1,990 @@
+{
+  "version": "M0.1",
+  "date": "2026-10-26",
+  "author": "Codex",
+  "status": "hypothèses avant terrain",
+  "guide": "https://www.inforoutefpt.org/ministere_docs/adminInfo/guideProgramme/GuideConceptionProduction_FP.pdf",
+  "general": [
+    [
+      "CG01",
+      "Analyser l’information syndicale",
+      [
+        1,
+        5,
+        29
+      ],
+      "Distinguer les faits, les récits et les informations manquantes; comparer les éléments utiles au mandat.",
+      "B1, B3",
+      "C?",
+      [
+        1,
+        3,
+        13
+      ],
+      [
+        3,
+        4,
+        6
+      ]
+    ],
+    [
+      "CG02",
+      "Communiquer l’information syndicale",
+      [
+        6,
+        8,
+        19,
+        47
+      ],
+      "Adapter le message au public; expliquer les choix; vérifier la compréhension.",
+      "B1, B2",
+      "C?",
+      [
+        2,
+        5,
+        6,
+        9
+      ],
+      [
+        1,
+        2,
+        5,
+        7,
+        9
+      ]
+    ],
+    [
+      "CG03",
+      "Collaborer avec les acteurs du mandat",
+      [
+        3,
+        14,
+        42,
+        43
+      ],
+      "Clarifier les contributions; organiser un relais; discuter d’un désaccord de rôles.",
+      "B1, B2",
+      "C?",
+      [
+        3,
+        7,
+        8
+      ],
+      [
+        1,
+        4,
+        7,
+        9
+      ]
+    ],
+    [
+      "CG04",
+      "Délimiter son intervention syndicale",
+      [
+        7,
+        9,
+        16,
+        41
+      ],
+      "Distinguer son mandat de celui d’un autre acteur; choisir quand demander un avis ou passer le relais.",
+      "B1, B2",
+      "C?",
+      [
+        1,
+        7,
+        8,
+        11
+      ],
+      [
+        1,
+        4,
+        6,
+        7
+      ]
+    ],
+    [
+      "CG05",
+      "Développer ses apprentissages du mandat",
+      [
+        20,
+        31,
+        32
+      ],
+      "Repérer un besoin d’apprentissage; chercher un appui; réexaminer une expérience.",
+      "B2, B3",
+      "S?",
+      [
+        4,
+        5
+      ],
+      [
+        11
+      ]
+    ],
+    [
+      "CG06",
+      "Mobiliser les ressources d’un réseau syndical",
+      [
+        17,
+        23,
+        37,
+        39
+      ],
+      "Choisir un interlocuteur; formuler une demande d’appui; suivre l’échange.",
+      "B1, B3",
+      "C?",
+      [
+        11
+      ],
+      [
+        1,
+        4,
+        5,
+        9
+      ]
+    ]
+  ],
+  "process": [
+    [
+      "P1",
+      "Recueillir les préoccupations des membres",
+      [
+        8,
+        21
+      ],
+      "Repérer la demande ou le besoin à l’origine de l’intervention."
+    ],
+    [
+      "P2",
+      "Analyser les enjeux du mandat",
+      [
+        5,
+        16,
+        29
+      ],
+      "Examiner la situation et les limites du rôle exercé."
+    ],
+    [
+      "P3",
+      "Préparer l’intervention syndicale",
+      [
+        12,
+        22,
+        47
+      ],
+      "Préparer les informations, les moyens et les relais."
+    ],
+    [
+      "P4",
+      "Réaliser l’intervention syndicale",
+      [
+        15,
+        25,
+        26
+      ],
+      "Conduire l’action prévue dans le mandat concerné."
+    ],
+    [
+      "P5",
+      "Examiner les suites de l’intervention",
+      [
+        1,
+        30
+      ],
+      "Reprendre les suites et les besoins de suivi; la séquence commune reste à établir."
+    ]
+  ],
+  "scenarios": {
+    "codex": [
+      {
+        "id": "CP-C01",
+        "number": 7,
+        "parent": "M0-C05",
+        "title": "Préparer l’accueil des membres",
+        "result": "Une présentation des ressources et du fonctionnement syndical.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "Le volet information transversal est repris en CG02; l’accueil garde un résultat propre.",
+        "refs": [
+          "E006",
+          "E018",
+          "E019",
+          "E020"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C02",
+        "number": 8,
+        "parent": "M0-C06",
+        "title": "Réaliser une consultation des membres",
+        "result": "Une synthèse des préoccupations et des avis reçus.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "La représentativité de la consultation reste à examiner.",
+        "refs": [
+          "E008",
+          "E021",
+          "E027"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C03",
+        "number": 9,
+        "parent": "M0-C02",
+        "title": "Préparer une instance syndicale",
+        "result": "Une rencontre préparée avec des informations utiles à la décision.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "La présidence de séance et les procédures ne sont pas entièrement décrites.",
+        "refs": [
+          "E002",
+          "E012",
+          "E025",
+          "E047"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C04",
+        "number": 10,
+        "parent": "M0-C01",
+        "title": "Traiter un dossier de représentation",
+        "result": "Un dossier instruit et suivi avec les ressources concernées.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Le pouvoir de décision et les actes des spécialistes restent à distinguer.",
+        "refs": [
+          "E001",
+          "E005",
+          "E016",
+          "E030"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C05",
+        "number": 11,
+        "parent": "M0-C08",
+        "title": "Accompagner un membre en difficulté",
+        "result": "Une aide syndicale délimitée et une orientation au besoin.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "Le service rendu ne comprend pas un acte clinique.",
+        "refs": [
+          "E009",
+          "E015"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C06",
+        "number": 12,
+        "parent": "M0-C07",
+        "title": "Traiter un différend syndical",
+        "result": "Une intervention ou un relais dont la raison est explicitée.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Le périmètre de ce rôle est contesté dans les textes.",
+        "refs": [
+          "E007"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C07",
+        "number": 13,
+        "parent": "M0-C03",
+        "title": "Coordonner le travail de l’équipe syndicale",
+        "result": "Une répartition discutée des actions et des relais.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "Coordonner ne suppose pas un pouvoir hiérarchique.",
+        "refs": [
+          "E003",
+          "E013",
+          "E014",
+          "E042",
+          "E043"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C08",
+        "number": 14,
+        "parent": "M0-C10",
+        "title": "Organiser une action collective",
+        "result": "Des moyens et des rôles préparés pour l’action.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Le résultat de mobilisation dépend aussi du contexte.",
+        "refs": [
+          "E011",
+          "E022"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C09",
+        "number": 15,
+        "parent": "M0-C09",
+        "title": "Préparer une prise de position syndicale",
+        "result": "Une position et un message préparés avec les acteurs concernés.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "La sensibilisation interne et le porte-parolat pourront être séparés.",
+        "refs": [
+          "E010",
+          "E028",
+          "E035"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C10",
+        "number": 16,
+        "parent": "M0-C12",
+        "title": "Négocier les moyens de libération syndicale",
+        "result": "Une demande de temps examinée avec les acteurs habilités.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "La demande, l’accord et la répartition sont trois éléments distincts.",
+        "refs": [
+          "E024",
+          "E045"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C11",
+        "number": 17,
+        "parent": "M0-C13",
+        "title": "Préparer une réponse à un projet de sous-traitance",
+        "result": "Une réponse collective fondée sur les informations accessibles.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Domaine spécialisé; pertinence pour le pilote à discuter.",
+        "refs": [
+          "E026",
+          "E029"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C12",
+        "number": 18,
+        "parent": "M0-C14",
+        "title": "Organiser une action de solidarité communautaire",
+        "result": "Une action préparée avec une équipe et des partenaires.",
+        "cg": [
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Exemple ponctuel, à examiner comme option plutôt que socle imposé.",
+        "refs": [
+          "E038"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-C13",
+        "number": 19,
+        "parent": "M0-C04",
+        "title": "Préparer la transmission d’un mandat syndical",
+        "result": "Des connaissances et des relais préparés pour la relève.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B2, B3",
+        "limit": "L’apprentissage personnel est déplacé vers CG05; la transmission constitue ici le service rendu.",
+        "refs": [
+          "E004",
+          "E033",
+          "E044",
+          "E046"
+        ],
+        "objective": "C?",
+        "hours": null
+      }
+    ],
+    "gemini": [
+      {
+        "id": "CP-G01",
+        "number": 7,
+        "parent": "M0-G07",
+        "title": "Accompagner un membre dans une démarche syndicale",
+        "result": "Une démarche et ses limites expliquées au membre.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "La médiation peut nécessiter une compétence distincte.",
+        "refs": [
+          "E007",
+          "E009",
+          "E015"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G02",
+        "number": 8,
+        "parent": "M0-G03",
+        "title": "Organiser la transmission des dossiers syndicaux",
+        "result": "Un dossier transmis avec les informations utiles à sa reprise.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "L’ensemble de la gestion des archives dépasse les passages disponibles.",
+        "refs": [
+          "E001",
+          "E013",
+          "E042",
+          "E043"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G03",
+        "number": 9,
+        "parent": "M0-G02",
+        "title": "Organiser une instance démocratique",
+        "result": "Une instance préparée et un résultat de décision consigné.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "Les élections et sanctions de Gemini sont à examiner séparément; aucune procédure complète établie.",
+        "refs": [
+          "E002",
+          "E012",
+          "E025",
+          "E047"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G04",
+        "number": 10,
+        "parent": "M0-G09",
+        "title": "Coordonner un réseau de délégués",
+        "result": "Des relais et échanges organisés avec les délégués.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1, B2",
+        "limit": "Les communications transversales sont reprises en CG02; les comités spécialisés restent à préciser.",
+        "refs": [
+          "E003",
+          "E006",
+          "E014",
+          "E019",
+          "E042",
+          "E043"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G05",
+        "number": 11,
+        "parent": "M0-G06",
+        "title": "Traiter un dossier de grief",
+        "result": "Un dossier examiné et suivi avec les ressources compétentes.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Les étapes jusqu’à l’arbitrage ne sont pas démontrées dans leur ensemble.",
+        "refs": [
+          "E001",
+          "E005",
+          "E016"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G06",
+        "number": 12,
+        "parent": "M0-G05",
+        "title": "Préparer une négociation collective",
+        "result": "Des demandes et options préparées pour la négociation.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "L’ensemble du cycle de négociation pourra exiger d’autres compétences.",
+        "refs": [
+          "E023",
+          "E025",
+          "E026",
+          "E027"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G07",
+        "number": 13,
+        "parent": "M0-G01",
+        "title": "Piloter les orientations de l’exécutif syndical",
+        "result": "Des choix collectifs préparés, suivis et expliqués.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Domaine encore large; autorité et portée à établir.",
+        "refs": [
+          "E003",
+          "E017",
+          "E035",
+          "E043"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G08",
+        "number": 14,
+        "parent": "M0-G04",
+        "title": "Piloter un portefeuille syndical",
+        "result": "Un dossier délégué coordonné dans les limites du mandat.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "L’attribution à la vice-présidence et la contre-expertise restent des hypothèses; la transmission est traitée à part.",
+        "refs": [
+          "E029",
+          "E042",
+          "E044",
+          "E046"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G09",
+        "number": 15,
+        "parent": "M0-G08",
+        "title": "Administrer les ressources financières du syndicat",
+        "result": "Un suivi des ressources et de leurs autorisations.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Volet séparé du temps syndical; aucun appui direct identifié dans les extractions actuelles.",
+        "refs": [],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G10",
+        "number": 16,
+        "parent": "M0-G08",
+        "title": "Planifier les moyens de libération syndicale",
+        "result": "Une proposition de moyens de temps reliée aux besoins.",
+        "cg": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Volet distinct des finances; négocier et planifier ne sont pas automatiquement équivalents.",
+        "refs": [
+          "E024",
+          "E045"
+        ],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G11",
+        "number": 17,
+        "parent": "M0-G10",
+        "title": "Préparer une intervention en santé et sécurité",
+        "result": "Une intervention préparée avec les ressources du domaine.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Hypothèse de Gemini sans appui direct suffisant dans les extractions actuelles.",
+        "refs": [],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G12",
+        "number": 18,
+        "parent": "M0-G10",
+        "title": "Préparer une intervention en équité salariale",
+        "result": "Une question d’équité examinée avec les ressources du domaine.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Hypothèse de Gemini sans appui direct suffisant; exigences à documenter.",
+        "refs": [],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G13",
+        "number": 19,
+        "parent": "M0-G10",
+        "title": "Examiner une question de classification des emplois",
+        "result": "Une analyse préparée pour le traitement de la question.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "process": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B1",
+        "limit": "Hypothèse de Gemini sans appui direct suffisant; distincte de la SST et de l’équité.",
+        "refs": [],
+        "objective": "C?",
+        "hours": null
+      },
+      {
+        "id": "CP-G14",
+        "number": 20,
+        "parent": "M0-G11",
+        "title": "Préparer la transmission des savoirs du mandat",
+        "result": "Un appui et des ressources préparés pour la relève.",
+        "cg": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "process": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "goals": "B2, B3",
+        "limit": "L’apprentissage personnel relève de CG05; l’ingénierie complète d’un programme reste à construire.",
+        "refs": [
+          "E004",
+          "E020",
+          "E033",
+          "E044",
+          "E046"
+        ],
+        "objective": "C?",
+        "hours": null
+      }
+    ]
+  }
+}

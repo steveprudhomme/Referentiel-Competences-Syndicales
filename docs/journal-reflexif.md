@@ -26,3 +26,7 @@ La version publique décrit les choix de méthode. Les récits identifiants, coo
 ## Trace de préparation assistée — 26 octobre 2026
 
 À la demande de Steve, Codex prépare deux [matrices M0](../referentiel/m0/README.md). Steve précise que l’analyse Gemini dérive du travail Codex. Cette dépendance est inscrite dans les matrices pour éviter de traiter leurs accords comme deux preuves indépendantes. Cette note décrit la préparation assistée; la réflexion personnelle de Steve sur les hypothèses, leurs effets sur les entretiens et son choix reste à écrire.
+
+## Trace de préparation assistée — adaptation M0.1
+
+Le 26 octobre 2026, Steve signale la méthode et la présentation de la matrice du guide ministériel M04. Codex relève l’écart avec les listes initiales et prépare les [M0.1](../referentiel/m0/methode-m0-1.md). Cette trace indique une correction méthodologique assistée; elle ne consigne ni un vécu ni une validation personnelle de Steve.

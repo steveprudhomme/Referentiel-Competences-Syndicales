@@ -1,5 +1,7 @@
 # Les étapes du projet
 **État au 26 octobre 2026 : phase 1 avancée, non entièrement clôturée.** Le [bilan de phase 1](rapports/bilan-phase-1.md) décrit 24 entrées, dont 19 documents consultés pour préparer la suite et 5 pistes séparées. La phase 1B est en cours : lots documentaires et contrôle de clôture totalisant 47 extractions issues de S01, S02, S03, S04 et S11, sans validation terrain.
+Ajout méthodologique du 26 octobre : M04 porte le registre actuel à 25 documents, dont 20 retenus; les comptes du bilan initial restent historiques.
+
 Les durées sont des estimations de travail, pas des dates promises. Chaque étape se ferme avec une courte note : résultat, limites, responsable et prochaine décision.
 
 | Phase | But simple | Durée indicative | Dépend de |
@@ -48,6 +50,8 @@ La reprise des vérifications publiques confirme que ce passage documentaire est
 - [x] Présenter la [proposition de Gemini à côté du scénario actuel](rapports/comparaison-scenarios-phase-1b.md), avec attribution et écarts documentaires.
 - [ ] Choisir le scénario ou la combinaison à retenir, après examen des sources et des propositions.
 - [x] Construire les [deux M0](referentiel/m0/README.md), expliciter la filiation Codex → Gemini et préparer le suivi avant/après.
+- [x] Adapter les M0 en [M0.1](referentiel/m0/methode-m0-1.md) : grilles LaTeX/PDF, correspondances et relations proposées selon le guide M04.
+- [ ] Examiner les distinctions particulier/général, les relations et le processus proposés; décider plus tard des objectifs et durées.
 - [ ] Examiner les hypothèses des M0 et consigner les choix du responsable.
 - [ ] Arrêter le bilan final de 1B et les priorités sous la responsabilité de Steve.
 Passage à 2 : les lacunes prioritaires sont décrites. Aucune demande de données primaires n'est envoyée avant ce bilan.

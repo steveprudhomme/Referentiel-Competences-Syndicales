@@ -28,3 +28,7 @@ Une piste transversale de la conversation : exercer un leadership démocratique,
 ## Deux matrices de départ disponibles
 
 Les [M0 Codex et Gemini](m0/README.md) proposent respectivement 14 et 11 compétences hypothétiques. La variante Gemini vient de sa réinterprétation du travail Codex; les deux matrices sont mises en forme par Codex. Elles ne remplacent pas le référentiel à construire après l’analyse et les consultations. Le [registre d’évolution](m0/suivi-evolution.md) permettra de suivre les changements.
+
+## Présentation M0.1 selon la structure du guide
+
+Les [deux versions LaTeX et PDF](m0/methode-m0-1.md) ajoutent la distinction entre compétences particulières et générales. Les listes M0 restent le point de départ historique. Le classement proposé M0.1 et les choix de formation restent à examiner.
