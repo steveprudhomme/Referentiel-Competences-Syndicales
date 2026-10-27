@@ -68,3 +68,15 @@ La [synthèse de la conversation](historique-conversation.md) conserve l'évolut
 ## Complément méthodologique du 26 octobre 2026
 
 - **M04.** Québec, ministère de l’Éducation (2004). *Guide de conception et de production d’un programme d’études professionnelles*. ISBN 2-550-41213-3. [Texte source](https://www.inforoutefpt.org/ministere_docs/adminInfo/guideProgramme/GuideConceptionProduction_FP.pdf). Lecture ciblée pour la construction des M0.1; voir la [fiche](../corpus/fiches-sources/M04.md) et la [note d’adaptation](../referentiel/m0/methode-m0-1.md).
+
+## Complément documentaire du 27 octobre 2026
+
+- **S13.** Diane Berthelette (2002). « Les déterminants de l’implantation et des résultats des programmes de santé et de sécurité du travail ». Dans Denis Harrisson et Camille Legendre (dir.), Santé, sécurité et transformation du travail, Presses de l’Université du Québec, p. 107–127. [Source](https://extranet.puq.ca/media/produits/documents/170_9782760517011.pdf); [fiche de lecture](../corpus/fiches-sources/S13.md).
+
+- **F05.** National Education Association (NEA). Leadership Competencies; fiches de domaines diffusées sous le chemin 2021-11. [Source](https://www.nea.org/professional-excellence/leadership-development/leadership-competencies); [fiche de lecture](../corpus/fiches-sources/F05.md).
+
+- **F06.** Céreq et CEDAET, pour Réalités du dialogue social (2012). Mandascop : Mandats des organisations syndicales de salariés et d’employeurs — Savoirs, Compétences, Profils. [Source](https://crpaca.syndicatcgt.fr/files/2018/02/mandascop-2.pdf); [fiche de lecture](../corpus/fiches-sources/F06.md).
+
+- **D01.** Comité exécutif de la section locale SEPB-571 (décembre 2020). Guide pour les exécutifs d’unité. [Source](https://sepb.qc.ca/wp-content/uploads/2021/02/Guide_Executifs_unite.pdf); [fiche de lecture](../corpus/fiches-sources/D01.md).
+
+- **F07.** Cégep de l’Outaouais (sans date). Reconnaissance des acquis et des compétences (RAC). [Source](https://fc.cegepoutaouais.qc.ca/reconnaissance-des-acquis-et-des-competences-rac/); [fiche de lecture](../corpus/fiches-sources/F07.md).

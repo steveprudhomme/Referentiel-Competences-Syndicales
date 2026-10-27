@@ -114,3 +114,7 @@ Les liens et passages probants sont ajoutés aux fiches S06, S08 et L01. Les doc
 ## Ajout méthodologique M04 — 26 octobre 2026
 
 À la demande de Steve, le guide ministériel de conception de programmes (2004) est consulté pour revoir la forme et la construction des matrices. Lecture ciblée et limites consignées dans [M04](fiches-sources/M04.md). Total actuel : 25 documents, 20 retenus et 5 pistes. Le noyau empirique et les 47 extractions ne changent pas. Les comptes précédents restent les états historiques de sélection.
+
+## 27 octobre 2026 — Complément issu du document transmis
+
+Codex examine les 29 références repérées : cinq nouvelles sources retenues (S13, D01, F05–F07), M04 déjà présente et 23 pistes non retenues dans ce lot. Voir le [registre détaillé](reperage-complement-2026-10-27.md). Les lectures sont ciblées; le tri ne vaut pas vérification complète des 29 textes. Total actuel : 30 entrées, 25 retenues et cinq réserves antérieures. Les anciens comptes ci-dessus décrivent leurs lots historiques. Le noyau des cinq textes et les 47 fiches E restent inchangés.

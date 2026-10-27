@@ -1,8 +1,8 @@
 # Inventaire des sources
 
-Mise à jour : 26 octobre 2026. **25 entrées uniques : 20 retenues pour la préparation et 5 pistes séparées.** Ce sont des documents, pas 25 enquêtes ni un total de participants.
+Mise à jour : 27 octobre 2026. **30 entrées uniques : 25 retenues pour la préparation et 5 pistes séparées.** Ce sont des documents, pas 30 enquêtes ni un total de participants.
 
-Les 20 documents retenus comprennent 16 PDF et 4 pages HTML. Tous ont été consultés au moins en partie. Aucune des cinq études scientifiques du noyau n'est déclarée lue intégralement.
+Les 25 documents retenus comprennent 19 sources PDF et 6 pages HTML. F05 est compté comme une page et ses fiches de domaines, une seule fois. Tous ont été consultés au moins en partie. Aucune des cinq études scientifiques du noyau n'est déclarée lue intégralement.
 
 | Code et fiche | Catégorie | Accès | Lecture | Usage |
 |---|---|---|---|---|
@@ -31,6 +31,13 @@ Les 20 documents retenus comprennent 16 PDF et 4 pages HTML. Tous ont été cons
 | [F02](fiches-sources/F02.md) | comparaison internationale | Texte intégral | Lue en partie | Préparation |
 | [F03](fiches-sources/F03.md) | comparaison internationale | Texte intégral | Article de présentation lu intégralement | Préparation |
 | [F04](fiches-sources/F04.md) | comparaison internationale | Texte intégral | Page lue en partie | Préparation |
+| [S13](fiches-sources/S13.md) | scientifique complémentaire | Texte public | Lecture ciblée | Complément documentaire |
+| [F05](fiches-sources/F05.md) | cadre professionnel comparatif | Texte public | Lecture ciblée | Complément documentaire |
+| [F06](fiches-sources/F06.md) | comparaison issue d’une enquête | Texte public | Lecture ciblée | Complément documentaire |
+| [D01](fiches-sources/D01.md) | document professionnel | Texte public | Lecture ciblée | Complément documentaire |
+| [F07](fiches-sources/F07.md) | cadre institutionnel de reconnaissance | Texte public | Lecture ciblée | Complément documentaire |
+
+D désigne ici un document professionnel; F regroupe des cadres de comparaison, dont la RAC québécoise F07. Le [registre des 29 pistes reçues](reperage-complement-2026-10-27.md) reste distinct du corpus sélectionné.
 
 ## Ordre de lecture pour préparer 1B
 
