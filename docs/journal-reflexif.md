@@ -30,3 +30,7 @@ La version publique décrit les choix de méthode. Les récits identifiants, coo
 ## Trace de préparation assistée — adaptation M0.1
 
 Le 26 octobre 2026, Steve signale la méthode et la présentation de la matrice du guide ministériel M04. Codex relève l’écart avec les listes initiales et prépare les [M0.1](../referentiel/m0/methode-m0-1.md). Cette trace indique une correction méthodologique assistée; elle ne consigne ni un vécu ni une validation personnelle de Steve.
+
+## 27 octobre 2026 — Note préparée par Codex : risque de reprendre une synthèse sans ses sources
+
+Le document transmis propose des compétences et cite des textes de natures différentes. Le retour aux originaux conduit à corriger des attributions et à séparer les faits publiés des propositions pour notre projet. Risque repéré : choisir seulement ce qui confirme les M0.1. Réponse proposée : conserver les 29 pistes, documenter les limites, permettre le rejet des huit apports et demander des contre-exemples. Le registre CD garde les décisions ouvertes. Cette note n’est pas une réflexion personnelle écrite ou validée par Steve.

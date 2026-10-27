@@ -7,6 +7,8 @@
 
 **Présentation actualisée :** [matrices M0.1 en PDF et LaTeX](referentiel/m0/methode-m0-1.md), avec compétences particulières, compétences générales et relations hypothétiques.
 
+**Nouveau complément documentaire :** [cinq sources examinées et huit apports proposés](rapports/complement-documentaire.md), avec le tri des 29 références reçues. Les M0.1 restent conservées; les ajouts possibles sont à examiner.
+
 ### Comprendre le travail des élus pour mieux les soutenir
 
 Un élu syndical écoute les membres, suit des dossiers, prépare des rencontres et travaille avec d’autres représentants. Mais que fait-il exactement? Avec quels moyens? Qu’est-ce qui rend son travail difficile?
@@ -23,11 +25,11 @@ L’IA soutient la préparation documentaire; ses productions ne valent pas une 
 
 ## Où en sommes-nous?
 
-**Au 26 octobre 2026 : la pré-AST documentaire est en cours — phase 1B.** Nous décrivons d’abord ce que les publications permettent de comprendre, avant de demander des données supplémentaires.
+**Au 27 octobre 2026 : la pré-AST documentaire est en cours — phase 1B.** Nous décrivons d’abord ce que les publications permettent de comprendre, avant de demander des données supplémentaires.
 
 | Déjà disponible | Ce que cela représente |
 |---|---|
-| **20 documents retenus** | Consultés au moins en partie, parmi 25 entrées; 5 pistes restent séparées; ajout du guide méthodologique M04 |
+| **25 documents retenus** | Consultés au moins en partie, parmi 30 entrées; 5 pistes restent séparées; cinq nouvelles sources complémentaires |
 | **5 textes principaux dans la matrice** | Fortin-Bergeron et coll., Lonergan, Bernard Pelletier, Coderre-LaPalme et Bernard Pelletier–Le Capitaine |
 | **47 constats documentaires** | 44 lignes d’activités et 3 conditions d’exercice, avec leurs sources et leurs pages |
 | **14 familles provisoires** | Des regroupements pour comparer les activités; plusieurs constats peuvent concerner une même tâche |

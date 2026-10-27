@@ -116,3 +116,14 @@ Livrables : rapport documentaire, rapport d'AST, référentiel, plan de formatio
 
 ## Calendrier à revoir
 L'ancienne estimation de 14 à 18 semaines précédait l'ajout formel de 1B. Elle n'est pas reprise comme engagement. Les autorisations et disponibilités peuvent rallonger le projet.
+
+## Complément documentaire — 27 octobre 2026
+
+- [x] Conserver la provenance et trier les 29 références du document transmis.
+- [x] Lire des passages ciblés de cinq nouvelles sources et corriger les attributions.
+- [x] Produire les fiches S13, D01 et F05–F07 et actualiser le corpus.
+- [x] Relier huit propositions aux M0.1 dans un registre distinct.
+- [ ] Examiner personnellement les apports CD01–CD08 et consigner les choix de Steve.
+- [ ] Décider des changements justifiés pour une éventuelle M0.2, avec trace avant/après.
+
+Ce complément soutient les phases 1 et 1B, puis les questions des phases suivantes. Il ne clôture pas 1B et ne remplace pas les consultations.

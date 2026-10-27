@@ -31,3 +31,7 @@ Les autorisations nécessaires sont vérifiées avant les entrevues ou l'accès 
 
 ## Résultats attendus
 Un rapport documentaire, un rapport d'AST validé par consultation, un référentiel et un plan de formation. À ce jour, ce sont des livrables à produire.
+
+## Extension documentaire du 27 octobre 2026
+
+Un [lot complémentaire](../rapports/complement-documentaire.md) est ajouté pour éclairer les apprentissages et comparer les cadres. Il n’autorise ni collecte supplémentaire auprès de personnes ni clôture de phase. Les 29 pistes reçues sont suivies séparément; seules cinq nouvelles sources consultées en partie rejoignent le corpus. Les règles de confidentialité et les conditions de passage des phases restent applicables.

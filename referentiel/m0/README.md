@@ -45,3 +45,7 @@ Conserver les deux M0 datées comme point de comparaison. Créer ensuite les ver
 Commencer les entretiens par un récit de travail et les difficultés rencontrées, avant de montrer les matrices. Autoriser des thèmes absents des M0. Chercher les cas où la compétence ne s’applique pas, change de personne ou dépend surtout des moyens disponibles. Distinguer ce que les personnes disent faire, un document consulté et une éventuelle observation directe.
 
 Pour chaque changement : noter la preuve autorisée, son contexte, le raisonnement, les désaccords, le responsable et la date. Les récits identifiants et données brutes restent dans l’espace privé prévu au [protocole de données](../../docs/protocole-donnees.md); le dépôt public reçoit une synthèse autorisée. Le choix final appartient à Steve. La création des M0 ne clôt pas 1B.
+
+## Complément documentaire du 27 octobre 2026
+
+Huit [apports proposés CD01–CD08](complement-documentaire.md) sont reliés aux M0.1 à partir de cinq nouvelles sources. M0, M0.1, leurs PDF et leurs données restent conservés. Une éventuelle M0.2 attend l’examen des propositions; aucun changement de compétence n’est adopté par cet ajout.

@@ -37,3 +37,7 @@ Steve demande une matrice M0 pour chaque scénario, puis précise que Gemini a r
 ## D16 — Adapter les M0 à la méthode du guide — 26 octobre 2026
 
 Steve demande une forme semblable à la matrice du guide ministériel, avec possibilité de LaTeX. Codex constate que les premières M0 n’appliquaient pas toute cette démarche. Mise en œuvre : [M0.1](../referentiel/m0/methode-m0-1.md), avec grilles à double entrée, tables de correspondance et registre des liens. Les nouveaux classements sont proposés par Codex; les anciennes M0 sont conservées. Choix définitifs des compétences, objectifs, durées et passage de phase à consigner par Steve.
+
+## D17 — Ajouter un complément documentaire — 27 octobre 2026
+
+Steve demande d’examiner l’intérêt des sources du document « Référentiel Compétences Vice-Président Syndical », puis autorise la mise en œuvre par « Ok allons-y ». Codex prépare le tri, cinq fiches et huit apports proposés dans le [complément](../rapports/complement-documentaire.md). L’accord autorise ce travail documentaire; il ne vaut pas adoption des propositions CD, validation humaine des sources, création d’une M0.2 ou clôture de 1B. L’auteur de production du document reçu n’est pas établi; aucune attribution à Gemini n’est présumée.

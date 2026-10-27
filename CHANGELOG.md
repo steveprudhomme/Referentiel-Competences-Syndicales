@@ -1,5 +1,14 @@
 # Journal des changements
 
+## 2026-10-27 — Complément documentaire et propositions pour les M0.1
+- [x] Tracer les 29 références reçues, sans présenter toutes les pistes comme vérifiées.
+- [x] Ajouter cinq sources consultées en partie : S13, D01, F05–F07.
+- [x] Corriger les attributions et séparer les différents types de documents.
+- [x] Proposer huit apports CD, reliés aux M0.1 et gardés hors des matrices existantes.
+- [x] Actualiser bibliographie, inventaire, méthode, protocole, décisions, journal et Roadmap.
+- [x] Vérifier les 708 liens locaux, les 30 entrées et le maintien des 47 fiches sans contrôle humain présumé.
+- [ ] Consigner les décisions de Steve et les éventuels changements M0.2; 1B reste ouverte.
+
 ## 2026-10-26 — M0.1, matrices à double entrée et guide M04
 - [x] Reconnaître que les listes M0 ne reprenaient pas toute la méthode du guide signalé par Steve.
 - [x] Lire les sections ciblées et examiner les annexes III–IV; ajouter M04 et actualiser le registre à 25 documents.

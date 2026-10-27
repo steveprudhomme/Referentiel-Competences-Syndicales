@@ -22,3 +22,7 @@ L’analyse est conduite par un seul responsable humain. Aucun double codage ind
 ## Construction des matrices de compétences — M0.1
 
 Les premières M0 étaient des listes d’hypothèses. À la demande de Steve, la [note M0.1](../referentiel/m0/methode-m0-1.md) décrit leur adaptation au guide ministériel M04 : distinction des compétences particulières et générales, correspondances aux sources, relations proposées et processus à examiner. Les catégories, types d’objectifs et durées restent à décider; les cases de la matrice ne deviennent pas des observations.
+
+## Complément documentaire distinct — 27 octobre 2026
+
+Le [complément documentaire](../rapports/complement-documentaire.md) distingue recherche scientifique, cadre professionnel, guide local et présentation institutionnelle. Les apports CD sont des propositions de rapprochement avec les M0.1; ils ne sont pas des observations nouvelles du travail. Les références internes non lues restent secondaires. Une synthèse reçue et les textes qu’elle cite ne constituent pas deux confirmations indépendantes. L’intégration à une éventuelle M0.2 exige une décision tracée; les versions précédentes sont conservées.
